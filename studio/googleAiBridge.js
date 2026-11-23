@@ -25,7 +25,7 @@ class GoogleAIBridge {
       throw new Error('MISSING_API_KEY: Please provide a Google Gemini API Key to enable live Gemini analysis.');
     }
 
-    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent?key=${key}`;
+    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:generateContent?key=${key}`;
     const systemPrompt = `You are an elite Hollywood Director, Screenwriter, and Commercial Cinematographer.
 Analyze the user's raw, scattered, or conversational idea and transform it into a cinematic screenplay.
 Determine the exact optimal number of scenes (between 3 to 10 scenes) based on the story arc.
