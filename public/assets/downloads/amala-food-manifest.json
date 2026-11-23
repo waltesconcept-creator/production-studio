@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Amala;Swallow food.jpg",
+    "localPath": "/assets/downloads/amala-food-1.jpg",
+    "diskPath": "public/assets/downloads\\amala-food-1.jpg",
+    "isCutout": false,
+    "width": 1400,
+    "height": 1050,
+    "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Amala%3BSwallow_food.jpg/1920px-Amala%3BSwallow_food.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "title": "Amala and Abula.jpg",
+    "localPath": "/assets/downloads/amala-food-2.jpg",
+    "diskPath": "public/assets/downloads\\amala-food-2.jpg",
+    "isCutout": false,
+    "width": 1400,
+    "height": 1050,
+    "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Amala_and_Abula.jpg/1920px-Amala_and_Abula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  }
+]

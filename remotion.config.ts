@@ -1,0 +1,16 @@
+import { Config } from '@remotion/cli/config';
+
+Config.setVideoImageFormat('jpeg');
+Config.setOverwriteOutput(true);
+Config.setPixelFormat('yuv420p');
+Config.setCodec('h264');
+
+// Use memory cache for Webpack to avoid disk-space exhaustion
+Config.overrideWebpackConfig((currentConfig) => {
+  return {
+    ...currentConfig,
+    cache: {
+      type: 'memory',
+    },
+  };
+});

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "En-us-Lamidi Adedibu from Nigeria pronunciation (Voice of America).ogg",
+    "localPath": "/assets/downloads/lamidi-adedibu-1.png",
+    "diskPath": "public/assets/downloads\\lamidi-adedibu-1.png",
+    "isCutout": true,
+    "width": 1400,
+    "height": 1400,
+    "sourceUrl": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png"
+  },
+  {
+    "title": "Yo-Lamidi Ariyibi Akanji Adedibu.ogg",
+    "localPath": "/assets/downloads/lamidi-adedibu-2.png",
+    "diskPath": "public/assets/downloads\\lamidi-adedibu-2.png",
+    "isCutout": true,
+    "width": 1400,
+    "height": 1400,
+    "sourceUrl": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png"
+  }
+]

@@ -1,0 +1,494 @@
+{
+  "audioFile": "/audio/wework-voiceover.mp3",
+  "voice": "en-US-ChristopherNeural",
+  "fps": 30,
+  "durationSeconds": 38.83,
+  "totalFrames": 1165,
+  "captions": [
+    {
+      "id": "cap-1",
+      "startFrame": 3,
+      "endFrame": 157,
+      "startMs": 100.0,
+      "endMs": 5225.0,
+      "text": "In 2019, WeWork was valued at forty-seven billion dollars.",
+      "words": [
+        {
+          "word": "In",
+          "startFrame": 3,
+          "endFrame": 20
+        },
+        {
+          "word": "2019,",
+          "startFrame": 20,
+          "endFrame": 37
+        },
+        {
+          "word": "WeWork",
+          "startFrame": 37,
+          "endFrame": 54
+        },
+        {
+          "word": "was",
+          "startFrame": 54,
+          "endFrame": 71
+        },
+        {
+          "word": "valued",
+          "startFrame": 71,
+          "endFrame": 89
+        },
+        {
+          "word": "at",
+          "startFrame": 89,
+          "endFrame": 106
+        },
+        {
+          "word": "forty-seven",
+          "startFrame": 106,
+          "endFrame": 123
+        },
+        {
+          "word": "billion",
+          "startFrame": 123,
+          "endFrame": 140
+        },
+        {
+          "word": "dollars.",
+          "startFrame": 140,
+          "endFrame": 157
+        }
+      ]
+    },
+    {
+      "id": "cap-2",
+      "startFrame": 155,
+      "endFrame": 318,
+      "startMs": 5175.0,
+      "endMs": 10587.5,
+      "text": "It was hailed as the future of work, fueled by charismatic founder Adam Neumann.",
+      "words": [
+        {
+          "word": "It",
+          "startFrame": 155,
+          "endFrame": 167
+        },
+        {
+          "word": "was",
+          "startFrame": 167,
+          "endFrame": 178
+        },
+        {
+          "word": "hailed",
+          "startFrame": 178,
+          "endFrame": 190
+        },
+        {
+          "word": "as",
+          "startFrame": 190,
+          "endFrame": 202
+        },
+        {
+          "word": "the",
+          "startFrame": 202,
+          "endFrame": 213
+        },
+        {
+          "word": "future",
+          "startFrame": 213,
+          "endFrame": 225
+        },
+        {
+          "word": "of",
+          "startFrame": 225,
+          "endFrame": 236
+        },
+        {
+          "word": "work,",
+          "startFrame": 236,
+          "endFrame": 248
+        },
+        {
+          "word": "fueled",
+          "startFrame": 248,
+          "endFrame": 260
+        },
+        {
+          "word": "by",
+          "startFrame": 260,
+          "endFrame": 271
+        },
+        {
+          "word": "charismatic",
+          "startFrame": 271,
+          "endFrame": 283
+        },
+        {
+          "word": "founder",
+          "startFrame": 283,
+          "endFrame": 295
+        },
+        {
+          "word": "Adam",
+          "startFrame": 295,
+          "endFrame": 306
+        },
+        {
+          "word": "Neumann.",
+          "startFrame": 306,
+          "endFrame": 318
+        }
+      ]
+    },
+    {
+      "id": "cap-3",
+      "startFrame": 318,
+      "endFrame": 519,
+      "startMs": 10587.5,
+      "endMs": 17312.5,
+      "text": "Neumann convinced Wall Street and SoftBank that a shared office landlord was secretly a high-margin tech company.",
+      "words": [
+        {
+          "word": "Neumann",
+          "startFrame": 318,
+          "endFrame": 330
+        },
+        {
+          "word": "convinced",
+          "startFrame": 330,
+          "endFrame": 342
+        },
+        {
+          "word": "Wall",
+          "startFrame": 342,
+          "endFrame": 353
+        },
+        {
+          "word": "Street",
+          "startFrame": 353,
+          "endFrame": 365
+        },
+        {
+          "word": "and",
+          "startFrame": 365,
+          "endFrame": 377
+        },
+        {
+          "word": "SoftBank",
+          "startFrame": 377,
+          "endFrame": 389
+        },
+        {
+          "word": "that",
+          "startFrame": 389,
+          "endFrame": 401
+        },
+        {
+          "word": "a",
+          "startFrame": 401,
+          "endFrame": 413
+        },
+        {
+          "word": "shared",
+          "startFrame": 413,
+          "endFrame": 424
+        },
+        {
+          "word": "office",
+          "startFrame": 424,
+          "endFrame": 436
+        },
+        {
+          "word": "landlord",
+          "startFrame": 436,
+          "endFrame": 448
+        },
+        {
+          "word": "was",
+          "startFrame": 448,
+          "endFrame": 460
+        },
+        {
+          "word": "secretly",
+          "startFrame": 460,
+          "endFrame": 472
+        },
+        {
+          "word": "a",
+          "startFrame": 472,
+          "endFrame": 484
+        },
+        {
+          "word": "high-margin",
+          "startFrame": 484,
+          "endFrame": 495
+        },
+        {
+          "word": "tech",
+          "startFrame": 495,
+          "endFrame": 507
+        },
+        {
+          "word": "company.",
+          "startFrame": 507,
+          "endFrame": 519
+        }
+      ]
+    },
+    {
+      "id": "cap-4",
+      "startFrame": 519,
+      "endFrame": 624,
+      "startMs": 17312.5,
+      "endMs": 20800.0,
+      "text": "Then, the public IPO filing dropped.",
+      "words": [
+        {
+          "word": "Then,",
+          "startFrame": 519,
+          "endFrame": 536
+        },
+        {
+          "word": "the",
+          "startFrame": 536,
+          "endFrame": 554
+        },
+        {
+          "word": "public",
+          "startFrame": 554,
+          "endFrame": 572
+        },
+        {
+          "word": "IPO",
+          "startFrame": 572,
+          "endFrame": 589
+        },
+        {
+          "word": "filing",
+          "startFrame": 589,
+          "endFrame": 606
+        },
+        {
+          "word": "dropped.",
+          "startFrame": 606,
+          "endFrame": 624
+        }
+      ]
+    },
+    {
+      "id": "cap-5",
+      "startFrame": 624,
+      "endFrame": 843,
+      "startMs": 20800.0,
+      "endMs": 28087.5,
+      "text": "The numbers were catastrophic: billions in losses, eccentric governance, and massive conflicts of interest.",
+      "words": [
+        {
+          "word": "The",
+          "startFrame": 624,
+          "endFrame": 640
+        },
+        {
+          "word": "numbers",
+          "startFrame": 640,
+          "endFrame": 655
+        },
+        {
+          "word": "were",
+          "startFrame": 655,
+          "endFrame": 671
+        },
+        {
+          "word": "catastrophic:",
+          "startFrame": 671,
+          "endFrame": 687
+        },
+        {
+          "word": "billions",
+          "startFrame": 687,
+          "endFrame": 702
+        },
+        {
+          "word": "in",
+          "startFrame": 702,
+          "endFrame": 718
+        },
+        {
+          "word": "losses,",
+          "startFrame": 718,
+          "endFrame": 734
+        },
+        {
+          "word": "eccentric",
+          "startFrame": 734,
+          "endFrame": 749
+        },
+        {
+          "word": "governance,",
+          "startFrame": 749,
+          "endFrame": 765
+        },
+        {
+          "word": "and",
+          "startFrame": 765,
+          "endFrame": 780
+        },
+        {
+          "word": "massive",
+          "startFrame": 780,
+          "endFrame": 796
+        },
+        {
+          "word": "conflicts",
+          "startFrame": 796,
+          "endFrame": 812
+        },
+        {
+          "word": "of",
+          "startFrame": 812,
+          "endFrame": 827
+        },
+        {
+          "word": "interest.",
+          "startFrame": 827,
+          "endFrame": 843
+        }
+      ]
+    },
+    {
+      "id": "cap-6",
+      "startFrame": 843,
+      "endFrame": 994,
+      "startMs": 28087.5,
+      "endMs": 33125.0,
+      "text": "In just thirty-three days, forty billion dollars vanished into thin air.",
+      "words": [
+        {
+          "word": "In",
+          "startFrame": 843,
+          "endFrame": 857
+        },
+        {
+          "word": "just",
+          "startFrame": 857,
+          "endFrame": 870
+        },
+        {
+          "word": "thirty-three",
+          "startFrame": 870,
+          "endFrame": 884
+        },
+        {
+          "word": "days,",
+          "startFrame": 884,
+          "endFrame": 898
+        },
+        {
+          "word": "forty",
+          "startFrame": 898,
+          "endFrame": 912
+        },
+        {
+          "word": "billion",
+          "startFrame": 912,
+          "endFrame": 925
+        },
+        {
+          "word": "dollars",
+          "startFrame": 925,
+          "endFrame": 939
+        },
+        {
+          "word": "vanished",
+          "startFrame": 939,
+          "endFrame": 953
+        },
+        {
+          "word": "into",
+          "startFrame": 953,
+          "endFrame": 967
+        },
+        {
+          "word": "thin",
+          "startFrame": 967,
+          "endFrame": 980
+        },
+        {
+          "word": "air.",
+          "startFrame": 980,
+          "endFrame": 994
+        }
+      ]
+    },
+    {
+      "id": "cap-7",
+      "startFrame": 994,
+      "endFrame": 1150,
+      "startMs": 33125.0,
+      "endMs": 38337.5,
+      "text": "Adam Neumann was ousted, and the greatest valuation bubble in history popped.",
+      "words": [
+        {
+          "word": "Adam",
+          "startFrame": 994,
+          "endFrame": 1007
+        },
+        {
+          "word": "Neumann",
+          "startFrame": 1007,
+          "endFrame": 1020
+        },
+        {
+          "word": "was",
+          "startFrame": 1020,
+          "endFrame": 1033
+        },
+        {
+          "word": "ousted,",
+          "startFrame": 1033,
+          "endFrame": 1046
+        },
+        {
+          "word": "and",
+          "startFrame": 1046,
+          "endFrame": 1059
+        },
+        {
+          "word": "the",
+          "startFrame": 1059,
+          "endFrame": 1072
+        },
+        {
+          "word": "greatest",
+          "startFrame": 1072,
+          "endFrame": 1085
+        },
+        {
+          "word": "valuation",
+          "startFrame": 1085,
+          "endFrame": 1098
+        },
+        {
+          "word": "bubble",
+          "startFrame": 1098,
+          "endFrame": 1111
+        },
+        {
+          "word": "in",
+          "startFrame": 1111,
+          "endFrame": 1124
+        },
+        {
+          "word": "history",
+          "startFrame": 1124,
+          "endFrame": 1137
+        },
+        {
+          "word": "popped.",
+          "startFrame": 1137,
+          "endFrame": 1150
+        }
+      ]
+    }
+  ]
+}

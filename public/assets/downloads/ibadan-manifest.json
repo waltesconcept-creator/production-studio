@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Ibadan",
+    "localPath": "/assets/downloads/ibadan-1.jpg",
+    "diskPath": "public/assets/downloads\\ibadan-1.jpg",
+    "isCutout": false,
+    "width": 1600,
+    "height": 900,
+    "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Aerial_view_of_the_National_Museum_of_Unity%2C_Aleshinloye%2C_Ibadan_2024-06-02.jpg/1920px-Aerial_view_of_the_National_Museum_of_Unity%2C_Aleshinloye%2C_Ibadan_2024-06-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "title": "Aerial view of Ibadan from the top of Mapo Hall 1.jpg",
+    "localPath": "/assets/downloads/ibadan-2.jpg",
+    "diskPath": "public/assets/downloads\\ibadan-2.jpg",
+    "isCutout": false,
+    "width": 1400,
+    "height": 1050,
+    "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Aerial_view_of_Ibadan_from_the_top_of_Mapo_Hall_1.jpg/1920px-Aerial_view_of_Ibadan_from_the_top_of_Mapo_Hall_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "title": "Ibadan Boys' High School, Ibadan.jpg",
+    "localPath": "/assets/downloads/ibadan-3.jpg",
+    "diskPath": "public/assets/downloads\\ibadan-3.jpg",
+    "isCutout": false,
+    "width": 1400,
+    "height": 1061,
+    "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Ibadan_Boys%27_High_School%2C_Ibadan.jpg/1920px-Ibadan_Boys%27_High_School%2C_Ibadan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  }
+]

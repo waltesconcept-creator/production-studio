@@ -1,0 +1,40 @@
+{
+  "name": "ai-motion-graphics-studio",
+  "version": "1.0.0",
+  "description": "AI-assisted motion graphics production studio for documentary, founder stories, and social media videos using Remotion",
+  "scripts": {
+    "dev": "remotion studio src/index.ts",
+    "render:chatty": "remotion render src/index.ts ChattyExplainerVertical out/chatty-explainer.mp4",
+    "produce": "node scripts/produce.js",
+    "render:active": "remotion render src/index.ts ActiveStory out/active-story.mp4",
+    "render": "remotion render src/index.ts LandscapeStory out/landscape-story.mp4",
+    "render:vertical": "remotion render src/index.ts VerticalStory out/vertical-story.mp4",
+    "render:showcase": "remotion render src/index.ts ComponentShowcase out/component-showcase.mp4",
+    "build": "remotion bundle src/index.ts",
+    "generate:story": "node scripts/generate-story.js",
+    "studio": "node studio/server.js",
+    "start": "node studio/server.js"
+  },
+  "dependencies": {
+    "@google/genai": "^3.6.1",
+    "@remotion/bundler": "^4.0.270",
+    "@remotion/cli": "^4.0.270",
+    "@remotion/media-utils": "^4.0.270",
+    "@remotion/player": "^4.0.270",
+    "@remotion/renderer": "^4.0.270",
+    "@remotion/transitions": "^4.0.270",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "lucide-react": "^0.460.0",
+    "multer": "^2.5.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.270"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "typescript": "^5.4.5"
+  }
+}

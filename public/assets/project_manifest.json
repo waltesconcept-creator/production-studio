@@ -1,0 +1,414 @@
+{
+    "id":  "chatty-lagos-commercial-01",
+    "story":  {
+                  "title":  "THE LAGOS RELOCATION // CHATTY COMMERCIAL",
+                  "synopsis":  "A sharp 28-year-old corporate professional receives a surprise promotion to Head of Marketing in Lagos State, required to resume by Monday. After 16 grueling, frustrating hours scouring scammy apartment sites late into the night, he slams his desk in exhaustion: \u0027Damn it! It shouldn\u0027t be this hard.\u0027 Grabbing his car keys, he escapes to an upscale Victoria Island lounge to vent to his friend. His friend smirks with disbelief: \u0027Oh, really? You still do that?\u0027 and introduces him to Chatty on WhatsApp. With an on-screen countdown timer ticking, he types: \u0027Hey Chatty, I need a 2-bedroom apartment in Lekki Phase 1.\u0027 In seconds, verified cards arrive, he previews the unit, books a virtual inspection, and hops onto an instant live video walkthrough with an agent. Over the call, he grins: \u0027I\u0027ll go for this.\u0027 Next morning, he packs his bags with total swagger: \u0027Lagos, here I come.\u0027 Outro: \u0027Finding your next home shouldn\u0027t take weeks. It takes seconds. Chat Chatty on WhatsApp at 091... and move in.\u0027",
+                  "genre":  "Cinematic Narrative Brand Film",
+                  "aspectRatio":  "16:9",
+                  "stylePreset":  "chatty",
+                  "beats":  [
+                                {
+                                    "id":  "beat-1",
+                                    "title":  "Scene 01 // The Executive Promotion",
+                                    "description":  "High-rise corporate office. Managing Director seated behind executive mahogany desk, sliding official brown envelope across table to Femi. Boss says: \u0027Congratulations. You have been made Head of Marketing in Lagos State. Prepare to resume on Monday.\u0027 Femi grabs letter, stunned and overwhelmed.",
+                                    "narration":  "When a career-defining promotion lands on your desk on Friday... and you have to resume in Lagos on Monday.",
+                                    "durationSec":  4
+                                },
+                                {
+                                    "id":  "beat-2",
+                                    "title":  "Scene 02 // The Apartment Hunt Nightmare \u0026 Desk Slam",
+                                    "description":  "2:00 AM dark bedroom. Laptop screen glowing blue on tired eyes. Scrolling endlessly through frustrating apartment listing sites, exorbitant fees, and ghost agents. Femi slams his palm onto the wooden desk: \u0027Damn it!\u0027 Coffee mug rattles.",
+                                    "narration":  "Sixteen hours searching for an apartment. Dead-end listings. Shady agents. It shouldn\u0027t be this hard.",
+                                    "durationSec":  4
+                                },
+                                {
+                                    "id":  "beat-3",
+                                    "title":  "Scene 03 // The Escape to the Lounge",
+                                    "description":  "Femi grabs car keys. Cut to upscale Victoria Island lounge with moody ambient magenta and amber lighting. Meets his friend at the booth: \u0027I\u0027m moving to Lagos. But finding an apartment is killing me.\u0027 Friend smirks: \u0027Oh, really? You still do that?\u0027",
+                                    "narration":  "In Lagos, you don\u0027t fight the old system. You discover the shortcut.",
+                                    "durationSec":  4
+                                },
+                                {
+                                    "id":  "beat-4",
+                                    "title":  "Scene 04 // The Chatty WhatsApp Reveal",
+                                    "description":  "Friend hands phone to Femi. Over-the-shoulder medium shot. A floating WhatsApp card appears on screen. Femi types: \u0027Hey Chatty, I need a 2-bedroom apartment in Lekki Phase 1.\u0027",
+                                    "narration":  "Meet Chatty. The AI rental assistant living right inside your WhatsApp.",
+                                    "durationSec":  4
+                                },
+                                {
+                                    "id":  "beat-5",
+                                    "title":  "Scene 05 // The 45-Second Virtual Inspection",
+                                    "description":  "A dynamic countdown timer ticks on screen (00:00:42). Verified apartment cards arrive with video walkthroughs. Femi taps \u0027View Apartment\u0027, then \u0027Book Virtual Inspection\u0027. Instant live video call connects with a leasing agent walking through a bright, sunlit Lekki flat. Femi grins: \u0027I\u0027ll go for this.\u0027",
+                                    "narration":  "Instant verified listings. Zero middlemen. Live virtual walkthroughs in under sixty seconds.",
+                                    "durationSec":  5
+                                },
+                                {
+                                    "id":  "beat-6",
+                                    "title":  "Scene 06 // Packing Bags \u0026 Ready to Roll",
+                                    "description":  "Warm morning sunlight streaming through curtains. Femi zips up leather duffel bags, throws them over his shoulder, grabs keys with a confident swagger: \u0027Lagos, here I come.\u0027",
+                                    "narration":  "Packed, ready, and moving in on your own terms.",
+                                    "durationSec":  3
+                                },
+                                {
+                                    "id":  "beat-7",
+                                    "title":  "Scene 07 // The Official Brand Outro",
+                                    "description":  "Sleek brand outro card with glowing WhatsApp green accents. Clean phone mockup showing confirmed booking badge.",
+                                    "narration":  "Finding your next home shouldn\u0027t take weeks. It takes seconds. Chat Chatty on WhatsApp and move in.",
+                                    "durationSec":  4
+                                }
+                            ]
+              },
+    "characters":  [
+                       {
+                           "id":  "char-1",
+                           "name":  "Femi (Head of Marketing)",
+                           "role":  "28-Year-Old Corporate Pioneer (Protagonist)",
+                           "traits":  "Sharp corporate professional, expressive eyes, authentic skin pores, confident smile, natural skin tone",
+                           "clothing":  "Tailored charcoal grey slim-fit blazer with crisp white shirt; later smart casual lounge jacket",
+                           "refImage":  "/assets/frances_cutout.png",
+                           "sheetPath":  "/assets/characters/femi_lead_sheet.png"
+                       }
+                   ],
+    "scenes":  [
+                   {
+                       "id":  "scene-1",
+                       "location":  "Executive High-Rise \u0026 Luxury Lekki Apartment",
+                       "timeOfDay":  "Moody Corporate Amber to Warm Sunlit Lekki Daylight",
+                       "atmosphere":  "Deep contrast, rich cinematic tones, authentic Lagos urban sophistication",
+                       "architecture":  "Contemporary African high-rise boardroom and sleek modern minimalist apartment",
+                       "refImage":  "/assets/manhattan_1940s.jpg",
+                       "sheetPath":  "/assets/scenes/lagos_luxury_scene_sheet.png"
+                   }
+               ],
+    "shots":  [
+                  {
+                      "id":  "shot-1",
+                      "code":  "SC01_SH01",
+                      "sceneTitle":  "Scene 01 // The Executive Promotion",
+                      "narration":  "When a career-defining promotion lands on your desk on Friday... and you have to resume in Lagos on Monday.",
+                      "character":  "Femi (Head of Marketing)",
+                      "characterSheetRef":  "/assets/characters/femi_lead_sheet.png",
+                      "environment":  "Executive High-Rise \u0026 Luxury Lekki Apartment",
+                      "sceneSheetRef":  "/assets/scenes/lagos_luxury_scene_sheet.png",
+                      "framing":  "Macro Workbench Slider Push-In",
+                      "lens":  "Zeiss 100mm Macro Master Prime, f/2.0",
+                      "cameraFlag":  "--camera-move macro-push --speed slow --fps 60",
+                      "physicsConstraint":  "Hands interact firmly with tactile technical fabric and seam roller; zero clipping into the wooden table; physical tools possess authentic mass; single water droplet tested on jacket membrane beads into a perfect sphere with realistic surface tension",
+                      "googleFlowPrompt":  "Cinematic movie commercial: High-rise corporate office. Managing Director seated behind executive mahogany desk, sliding official brown envelope across table to Femi. Boss says: \u0027Congratulations. You have been made Head of Marketing in Lagos State. Prepare to resume on Monday.\u0027 Femi grabs letter, stunned and overwhelmed.. Subject: Femi (Head of Marketing), wearing Tailored charcoal grey slim-fit blazer with crisp white shirt; later smart casual lounge jacket, matching character turnaround sheet. Environment: Executive High-Rise \u0026 Luxury Lekki Apartment, dark atmospheric chiaroscuro lighting, deep shadows, authentic rain reflections, matching environment sheet. Camera: Macro Workbench Slider Push-In, shot on Zeiss 100mm Macro Master Prime, f/2.0 on Precision mechanical slider on solid oak workbench, authentic 35mm anamorphic bokeh, true motion blur and speed ramping. Visual \u0026 Texture Fidelity: Raw uncompressed cinema camera capture, true subsurface scattering (SSS) on human skin, visible skin pores, natural dermal imperfections, fine vellus facial hairs, and authentic specular light sheen on wet surfaces. Zero artificial smoothing, zero plastic appearance, completely indistinguishable from 35mm film cinema. Physical \u0026 Spatial Constraints: Hands interact firmly with tactile technical fabric and seam roller; zero clipping into the wooden table; physical tools possess authentic mass; single water droplet tested on jacket membrane beads into a perfect sphere with realistic surface tension. Solid objects (doors, desks, chairs, floors) are completely rigid with zero noclip or phasing. Character movement respects gravity, natural mass, and realistic joint biomechanics. --camera-move macro-push --speed slow --fps 60 --seed-frame-ref \"/assets/characters/femi_lead_sheet.png\" --aspect-ratio 16:9 --motion-intensity 7 --negative-prompt \"plastic skin, wax figure, airbrushed, porcelain skin, smoothed pores, doll face, CGI render, 3D video game, uncanny valley, deformed iris, crossed eyes, asymmetrical pupil, extra fingers, fused digits, missing knuckle, rubber skin, excessive beauty filter, noclip, phasing through furniture, walking through tables, walking through chairs, feet sliding on ground, moonwalking, floating above floor, body intersecting solid objects, door swinging through wall, impossible door opening, morphing background, liquid walls, melting geometry, disappearing objects, teleporting props, weightless movement, jitter, temporal flickering, motion smear, unnatural morph cut, over-sharpened edge halos, cartoon outlines, compression artifacts, low frame rate stutter, amateur handheld wobble, distorted perspective\"",
+                      "suggestedDurationSec":  4,
+                      "suggestedDurationFrames":  120,
+                      "crew":  {
+                                   "director":  {
+                                                    "intent":  "Scene 01 // The Executive Promotion",
+                                                    "blocking":  "High-rise corporate office. Managing Director seated behind executive mahogany desk, sliding official brown envelope across table to Femi. Boss says: \u0027Congratulations. You have been made Head of Marketing in Lagos State. Prepare to resume on Monday.\u0027 Femi grabs letter, stunned and overwhelmed.",
+                                                    "status":  "APPROVED // MOVIE-COMMERCIAL CONTINUITY"
+                                                },
+                                   "cinematographer":  {
+                                                           "lens":  "Zeiss 100mm Macro Master Prime, f/2.0",
+                                                           "rig":  "Precision mechanical slider on solid oak workbench",
+                                                           "framing":  "Macro Workbench Slider Push-In",
+                                                           "opticalBokeh":  "Organic anamorphic oval bokeh, f/2.0"
+                                                       },
+                                   "gafferAndLighting":  {
+                                                             "skinRendering":  "Subsurface Scattering (SSS) Active \u0026 Epidermal Pores",
+                                                             "colorTemperature":  "Warm Amber Workbench (2800K) vs Cold Storm Cyan (6500K)",
+                                                             "contrastRatio":  "10:1 Cinematic Low-Key Chiaroscuro"
+                                                         },
+                                   "vfxAndPhysics":  {
+                                                         "collisionIntegrity":  "STRICT LOCK // ZERO NOCLIP",
+                                                         "phasingShield":  "Doors, drafting tables, and chairs are rigid solids",
+                                                         "fluidDynamics":  "Hydrophobic water beading \u0026 splash displacement locked"
+                                                     },
+                                   "continuityLead":  {
+                                                          "eyelineRule":  "180-Degree Axis Maintained",
+                                                          "wardrobeMatch":  "Locked to Technical Jacket Model Sheet",
+                                                          "spatialTopology":  "Atelier Interior to Outdoor Storm Transition Verified"
+                                                      }
+                               },
+                      "status":  "ready",
+                      "videoClipUrl":  "/assets/shots/shot_1.mp4"
+                  },
+                  {
+                      "id":  "shot-2",
+                      "code":  "SC01_SH02",
+                      "sceneTitle":  "Scene 02 // The Apartment Hunt Nightmare \u0026 Desk Slam",
+                      "narration":  "Sixteen hours searching for an apartment. Dead-end listings. Shady agents. It shouldn\u0027t be this hard.",
+                      "character":  "Femi (Head of Marketing)",
+                      "characterSheetRef":  "/assets/characters/femi_lead_sheet.png",
+                      "environment":  "Executive High-Rise \u0026 Luxury Lekki Apartment",
+                      "sceneSheetRef":  "/assets/scenes/lagos_luxury_scene_sheet.png",
+                      "framing":  "Medium Grounded Tracking Push",
+                      "lens":  "Cooke 35mm Anamorphic, eye level",
+                      "cameraFlag":  "--camera-move grounded-dolly --speed medium",
+                      "physicsConstraint":  "Designer walks around drafting table with natural clearance; zips up the technical storm jacket on protagonist with authentic metal teeth engagement; protagonist steps toward solid industrial door, turns physical brass handle downward, door swings open naturally on steel hinges",
+                      "googleFlowPrompt":  "Cinematic movie commercial: 2:00 AM dark bedroom. Laptop screen glowing blue on tired eyes. Scrolling endlessly through frustrating apartment listing sites, exorbitant fees, and ghost agents. Femi slams his palm onto the wooden desk: \u0027Damn it!\u0027 Coffee mug rattles.. Subject: Femi (Head of Marketing), wearing Tailored charcoal grey slim-fit blazer with crisp white shirt; later smart casual lounge jacket, matching character turnaround sheet. Environment: Executive High-Rise \u0026 Luxury Lekki Apartment, dark atmospheric chiaroscuro lighting, deep shadows, authentic rain reflections, matching environment sheet. Camera: Medium Grounded Tracking Push, shot on Cooke 35mm Anamorphic, eye level on Chapman Peewee Dolly gliding across workshop floor, authentic 35mm anamorphic bokeh, true motion blur and speed ramping. Visual \u0026 Texture Fidelity: Raw uncompressed cinema camera capture, true subsurface scattering (SSS) on human skin, visible skin pores, natural dermal imperfections, fine vellus facial hairs, and authentic specular light sheen on wet surfaces. Zero artificial smoothing, zero plastic appearance, completely indistinguishable from 35mm film cinema. Physical \u0026 Spatial Constraints: Designer walks around drafting table with natural clearance; zips up the technical storm jacket on protagonist with authentic metal teeth engagement; protagonist steps toward solid industrial door, turns physical brass handle downward, door swings open naturally on steel hinges. Solid objects (doors, desks, chairs, floors) are completely rigid with zero noclip or phasing. Character movement respects gravity, natural mass, and realistic joint biomechanics. --camera-move grounded-dolly --speed medium --seed-frame-ref \"/assets/characters/femi_lead_sheet.png\" --aspect-ratio 16:9 --motion-intensity 7 --negative-prompt \"plastic skin, wax figure, airbrushed, porcelain skin, smoothed pores, doll face, CGI render, 3D video game, uncanny valley, deformed iris, crossed eyes, asymmetrical pupil, extra fingers, fused digits, missing knuckle, rubber skin, excessive beauty filter, noclip, phasing through furniture, walking through tables, walking through chairs, feet sliding on ground, moonwalking, floating above floor, body intersecting solid objects, door swinging through wall, impossible door opening, morphing background, liquid walls, melting geometry, disappearing objects, teleporting props, weightless movement, jitter, temporal flickering, motion smear, unnatural morph cut, over-sharpened edge halos, cartoon outlines, compression artifacts, low frame rate stutter, amateur handheld wobble, distorted perspective\"",
+                      "suggestedDurationSec":  4,
+                      "suggestedDurationFrames":  120,
+                      "crew":  {
+                                   "director":  {
+                                                    "intent":  "Scene 02 // The Apartment Hunt Nightmare \u0026 Desk Slam",
+                                                    "blocking":  "2:00 AM dark bedroom. Laptop screen glowing blue on tired eyes. Scrolling endlessly through frustrating apartment listing sites, exorbitant fees, and ghost agents. Femi slams his palm onto the wooden desk: \u0027Damn it!\u0027 Coffee mug rattles.",
+                                                    "status":  "APPROVED // MOVIE-COMMERCIAL CONTINUITY"
+                                                },
+                                   "cinematographer":  {
+                                                           "lens":  "Cooke 35mm Anamorphic, eye level",
+                                                           "rig":  "Chapman Peewee Dolly gliding across workshop floor",
+                                                           "framing":  "Medium Grounded Tracking Push",
+                                                           "opticalBokeh":  "Organic anamorphic oval bokeh, f/2.0"
+                                                       },
+                                   "gafferAndLighting":  {
+                                                             "skinRendering":  "Subsurface Scattering (SSS) Active \u0026 Epidermal Pores",
+                                                             "colorTemperature":  "Warm Amber Workbench (2800K) vs Cold Storm Cyan (6500K)",
+                                                             "contrastRatio":  "10:1 Cinematic Low-Key Chiaroscuro"
+                                                         },
+                                   "vfxAndPhysics":  {
+                                                         "collisionIntegrity":  "STRICT LOCK // ZERO NOCLIP",
+                                                         "phasingShield":  "Doors, drafting tables, and chairs are rigid solids",
+                                                         "fluidDynamics":  "Hydrophobic water beading \u0026 splash displacement locked"
+                                                     },
+                                   "continuityLead":  {
+                                                          "eyelineRule":  "180-Degree Axis Maintained",
+                                                          "wardrobeMatch":  "Locked to Technical Jacket Model Sheet",
+                                                          "spatialTopology":  "Atelier Interior to Outdoor Storm Transition Verified"
+                                                      }
+                               },
+                      "status":  "ready",
+                      "videoClipUrl":  "/assets/shots/shot_2.mp4"
+                  },
+                  {
+                      "id":  "shot-3",
+                      "code":  "SC01_SH03",
+                      "sceneTitle":  "Scene 03 // The Escape to the Lounge",
+                      "narration":  "In Lagos, you don\u0027t fight the old system. You discover the shortcut.",
+                      "character":  "Femi (Head of Marketing)",
+                      "characterSheetRef":  "/assets/characters/femi_lead_sheet.png",
+                      "environment":  "Executive High-Rise \u0026 Luxury Lekki Apartment",
+                      "sceneSheetRef":  "/assets/scenes/lagos_luxury_scene_sheet.png",
+                      "framing":  "Low-Angle Cataclysmic Dolly Forward",
+                      "lens":  "Panavision 24mm Anamorphic, low angle",
+                      "cameraFlag":  "--camera-move low-angle-forward --speed slow --fps 120-slowmo",
+                      "physicsConstraint":  "Category-5 driving rain crashes against protagonist; water droplets strike waterproof jacket fabric and instantly shatter into microscopic beads that roll off; wind bends trees in background without affecting solid ground; protagonist stands completely grounded with firm footing, completely dry inside",
+                      "googleFlowPrompt":  "Cinematic movie commercial: Femi grabs car keys. Cut to upscale Victoria Island lounge with moody ambient magenta and amber lighting. Meets his friend at the booth: \u0027I\u0027m moving to Lagos. But finding an apartment is killing me.\u0027 Friend smirks: \u0027Oh, really? You still do that?\u0027. Subject: Femi (Head of Marketing), wearing Tailored charcoal grey slim-fit blazer with crisp white shirt; later smart casual lounge jacket, matching character turnaround sheet. Environment: Executive High-Rise \u0026 Luxury Lekki Apartment, dark atmospheric chiaroscuro lighting, deep shadows, authentic rain reflections, matching environment sheet. Camera: Low-Angle Cataclysmic Dolly Forward, shot on Panavision 24mm Anamorphic, low angle on Rain-sealed Steadicam pushing forward into the tempest, authentic 35mm anamorphic bokeh, true motion blur and speed ramping. Visual \u0026 Texture Fidelity: Raw uncompressed cinema camera capture, true subsurface scattering (SSS) on human skin, visible skin pores, natural dermal imperfections, fine vellus facial hairs, and authentic specular light sheen on wet surfaces. Zero artificial smoothing, zero plastic appearance, completely indistinguishable from 35mm film cinema. Physical \u0026 Spatial Constraints: Category-5 driving rain crashes against protagonist; water droplets strike waterproof jacket fabric and instantly shatter into microscopic beads that roll off; wind bends trees in background without affecting solid ground; protagonist stands completely grounded with firm footing, completely dry inside. Solid objects (doors, desks, chairs, floors) are completely rigid with zero noclip or phasing. Character movement respects gravity, natural mass, and realistic joint biomechanics. --camera-move low-angle-forward --speed slow --fps 120-slowmo --seed-frame-ref \"/assets/characters/femi_lead_sheet.png\" --aspect-ratio 16:9 --motion-intensity 7 --negative-prompt \"plastic skin, wax figure, airbrushed, porcelain skin, smoothed pores, doll face, CGI render, 3D video game, uncanny valley, deformed iris, crossed eyes, asymmetrical pupil, extra fingers, fused digits, missing knuckle, rubber skin, excessive beauty filter, noclip, phasing through furniture, walking through tables, walking through chairs, feet sliding on ground, moonwalking, floating above floor, body intersecting solid objects, door swinging through wall, impossible door opening, morphing background, liquid walls, melting geometry, disappearing objects, teleporting props, weightless movement, jitter, temporal flickering, motion smear, unnatural morph cut, over-sharpened edge halos, cartoon outlines, compression artifacts, low frame rate stutter, amateur handheld wobble, distorted perspective\"",
+                      "suggestedDurationSec":  4,
+                      "suggestedDurationFrames":  120,
+                      "crew":  {
+                                   "director":  {
+                                                    "intent":  "Scene 03 // The Escape to the Lounge",
+                                                    "blocking":  "Femi grabs car keys. Cut to upscale Victoria Island lounge with moody ambient magenta and amber lighting. Meets his friend at the booth: \u0027I\u0027m moving to Lagos. But finding an apartment is killing me.\u0027 Friend smirks: \u0027Oh, really? You still do that?\u0027",
+                                                    "status":  "APPROVED // MOVIE-COMMERCIAL CONTINUITY"
+                                                },
+                                   "cinematographer":  {
+                                                           "lens":  "Panavision 24mm Anamorphic, low angle",
+                                                           "rig":  "Rain-sealed Steadicam pushing forward into the tempest",
+                                                           "framing":  "Low-Angle Cataclysmic Dolly Forward",
+                                                           "opticalBokeh":  "Organic anamorphic oval bokeh, f/2.0"
+                                                       },
+                                   "gafferAndLighting":  {
+                                                             "skinRendering":  "Subsurface Scattering (SSS) Active \u0026 Epidermal Pores",
+                                                             "colorTemperature":  "Warm Amber Workbench (2800K) vs Cold Storm Cyan (6500K)",
+                                                             "contrastRatio":  "10:1 Cinematic Low-Key Chiaroscuro"
+                                                         },
+                                   "vfxAndPhysics":  {
+                                                         "collisionIntegrity":  "STRICT LOCK // ZERO NOCLIP",
+                                                         "phasingShield":  "Doors, drafting tables, and chairs are rigid solids",
+                                                         "fluidDynamics":  "Hydrophobic water beading \u0026 splash displacement locked"
+                                                     },
+                                   "continuityLead":  {
+                                                          "eyelineRule":  "180-Degree Axis Maintained",
+                                                          "wardrobeMatch":  "Locked to Technical Jacket Model Sheet",
+                                                          "spatialTopology":  "Atelier Interior to Outdoor Storm Transition Verified"
+                                                      }
+                               },
+                      "status":  "ready",
+                      "videoClipUrl":  "/assets/shots/shot_3.mp4"
+                  },
+                  {
+                      "id":  "shot-4",
+                      "code":  "SC01_SH04",
+                      "sceneTitle":  "Scene 04 // The Chatty WhatsApp Reveal",
+                      "narration":  "Meet Chatty. The AI rental assistant living right inside your WhatsApp.",
+                      "character":  "Femi (Head of Marketing)",
+                      "characterSheetRef":  "/assets/characters/femi_lead_sheet.png",
+                      "environment":  "Executive High-Rise \u0026 Luxury Lekki Apartment",
+                      "sceneSheetRef":  "/assets/scenes/lagos_luxury_scene_sheet.png",
+                      "framing":  "Dynamic Pursuit Tracking Shot",
+                      "lens":  "35mm Wide Anamorphic, tracking alongside runner",
+                      "cameraFlag":  "--camera-move tracking-run --speed fast --fps 120-slowmo",
+                      "physicsConstraint":  "Protagonist breaks into a confident, effortless jog/run through flooded asphalt streets; shoes strike puddles displacing water with authentic fluid dynamics; wind whips jacket hood but jacket membrane remains completely impervious; protagonist looks ahead with calm invincible serenity",
+                      "googleFlowPrompt":  "Cinematic movie commercial: Friend hands phone to Femi. Over-the-shoulder medium shot. A floating WhatsApp card appears on screen. Femi types: \u0027Hey Chatty, I need a 2-bedroom apartment in Lekki Phase 1.\u0027. Subject: Femi (Head of Marketing), wearing Tailored charcoal grey slim-fit blazer with crisp white shirt; later smart casual lounge jacket, matching character turnaround sheet. Environment: Executive High-Rise \u0026 Luxury Lekki Apartment, dark atmospheric chiaroscuro lighting, deep shadows, authentic rain reflections, matching environment sheet. Camera: Dynamic Pursuit Tracking Shot, shot on 35mm Wide Anamorphic, tracking alongside runner on Electric chase vehicle with gimbal stabilizer, authentic 35mm anamorphic bokeh, true motion blur and speed ramping. Visual \u0026 Texture Fidelity: Raw uncompressed cinema camera capture, true subsurface scattering (SSS) on human skin, visible skin pores, natural dermal imperfections, fine vellus facial hairs, and authentic specular light sheen on wet surfaces. Zero artificial smoothing, zero plastic appearance, completely indistinguishable from 35mm film cinema. Physical \u0026 Spatial Constraints: Protagonist breaks into a confident, effortless jog/run through flooded asphalt streets; shoes strike puddles displacing water with authentic fluid dynamics; wind whips jacket hood but jacket membrane remains completely impervious; protagonist looks ahead with calm invincible serenity. Solid objects (doors, desks, chairs, floors) are completely rigid with zero noclip or phasing. Character movement respects gravity, natural mass, and realistic joint biomechanics. --camera-move tracking-run --speed fast --fps 120-slowmo --seed-frame-ref \"/assets/characters/femi_lead_sheet.png\" --aspect-ratio 16:9 --motion-intensity 7 --negative-prompt \"plastic skin, wax figure, airbrushed, porcelain skin, smoothed pores, doll face, CGI render, 3D video game, uncanny valley, deformed iris, crossed eyes, asymmetrical pupil, extra fingers, fused digits, missing knuckle, rubber skin, excessive beauty filter, noclip, phasing through furniture, walking through tables, walking through chairs, feet sliding on ground, moonwalking, floating above floor, body intersecting solid objects, door swinging through wall, impossible door opening, morphing background, liquid walls, melting geometry, disappearing objects, teleporting props, weightless movement, jitter, temporal flickering, motion smear, unnatural morph cut, over-sharpened edge halos, cartoon outlines, compression artifacts, low frame rate stutter, amateur handheld wobble, distorted perspective\"",
+                      "suggestedDurationSec":  4,
+                      "suggestedDurationFrames":  120,
+                      "crew":  {
+                                   "director":  {
+                                                    "intent":  "Scene 04 // The Chatty WhatsApp Reveal",
+                                                    "blocking":  "Friend hands phone to Femi. Over-the-shoulder medium shot. A floating WhatsApp card appears on screen. Femi types: \u0027Hey Chatty, I need a 2-bedroom apartment in Lekki Phase 1.\u0027",
+                                                    "status":  "APPROVED // MOVIE-COMMERCIAL CONTINUITY"
+                                                },
+                                   "cinematographer":  {
+                                                           "lens":  "35mm Wide Anamorphic, tracking alongside runner",
+                                                           "rig":  "Electric chase vehicle with gimbal stabilizer",
+                                                           "framing":  "Dynamic Pursuit Tracking Shot",
+                                                           "opticalBokeh":  "Organic anamorphic oval bokeh, f/2.0"
+                                                       },
+                                   "gafferAndLighting":  {
+                                                             "skinRendering":  "Subsurface Scattering (SSS) Active \u0026 Epidermal Pores",
+                                                             "colorTemperature":  "Warm Amber Workbench (2800K) vs Cold Storm Cyan (6500K)",
+                                                             "contrastRatio":  "10:1 Cinematic Low-Key Chiaroscuro"
+                                                         },
+                                   "vfxAndPhysics":  {
+                                                         "collisionIntegrity":  "STRICT LOCK // ZERO NOCLIP",
+                                                         "phasingShield":  "Doors, drafting tables, and chairs are rigid solids",
+                                                         "fluidDynamics":  "Hydrophobic water beading \u0026 splash displacement locked"
+                                                     },
+                                   "continuityLead":  {
+                                                          "eyelineRule":  "180-Degree Axis Maintained",
+                                                          "wardrobeMatch":  "Locked to Technical Jacket Model Sheet",
+                                                          "spatialTopology":  "Atelier Interior to Outdoor Storm Transition Verified"
+                                                      }
+                               },
+                      "status":  "ready",
+                      "videoClipUrl":  "/assets/shots/shot_4.mp4"
+                  },
+                  {
+                      "id":  "shot-5",
+                      "code":  "SC01_SH05",
+                      "sceneTitle":  "Scene 05 // The 45-Second Virtual Inspection",
+                      "narration":  "Instant verified listings. Zero middlemen. Live virtual walkthroughs in under sixty seconds.",
+                      "character":  "Femi (Head of Marketing)",
+                      "characterSheetRef":  "/assets/characters/femi_lead_sheet.png",
+                      "environment":  "Executive High-Rise \u0026 Luxury Lekki Apartment",
+                      "sceneSheetRef":  "/assets/scenes/lagos_luxury_scene_sheet.png",
+                      "framing":  "Macro Workbench Slider Push-In",
+                      "lens":  "Zeiss 100mm Macro Master Prime, f/2.0",
+                      "cameraFlag":  "--camera-move macro-push --speed slow --fps 60",
+                      "physicsConstraint":  "Hands interact firmly with tactile technical fabric and seam roller; zero clipping into the wooden table; physical tools possess authentic mass; single water droplet tested on jacket membrane beads into a perfect sphere with realistic surface tension",
+                      "googleFlowPrompt":  "Cinematic movie commercial: A dynamic countdown timer ticks on screen (00:00:42). Verified apartment cards arrive with video walkthroughs. Femi taps \u0027View Apartment\u0027, then \u0027Book Virtual Inspection\u0027. Instant live video call connects with a leasing agent walking through a bright, sunlit Lekki flat. Femi grins: \u0027I\u0027ll go for this.\u0027. Subject: Femi (Head of Marketing), wearing Tailored charcoal grey slim-fit blazer with crisp white shirt; later smart casual lounge jacket, matching character turnaround sheet. Environment: Executive High-Rise \u0026 Luxury Lekki Apartment, dark atmospheric chiaroscuro lighting, deep shadows, authentic rain reflections, matching environment sheet. Camera: Macro Workbench Slider Push-In, shot on Zeiss 100mm Macro Master Prime, f/2.0 on Precision mechanical slider on solid oak workbench, authentic 35mm anamorphic bokeh, true motion blur and speed ramping. Visual \u0026 Texture Fidelity: Raw uncompressed cinema camera capture, true subsurface scattering (SSS) on human skin, visible skin pores, natural dermal imperfections, fine vellus facial hairs, and authentic specular light sheen on wet surfaces. Zero artificial smoothing, zero plastic appearance, completely indistinguishable from 35mm film cinema. Physical \u0026 Spatial Constraints: Hands interact firmly with tactile technical fabric and seam roller; zero clipping into the wooden table; physical tools possess authentic mass; single water droplet tested on jacket membrane beads into a perfect sphere with realistic surface tension. Solid objects (doors, desks, chairs, floors) are completely rigid with zero noclip or phasing. Character movement respects gravity, natural mass, and realistic joint biomechanics. --camera-move macro-push --speed slow --fps 60 --seed-frame-ref \"/assets/characters/femi_lead_sheet.png\" --aspect-ratio 16:9 --motion-intensity 7 --negative-prompt \"plastic skin, wax figure, airbrushed, porcelain skin, smoothed pores, doll face, CGI render, 3D video game, uncanny valley, deformed iris, crossed eyes, asymmetrical pupil, extra fingers, fused digits, missing knuckle, rubber skin, excessive beauty filter, noclip, phasing through furniture, walking through tables, walking through chairs, feet sliding on ground, moonwalking, floating above floor, body intersecting solid objects, door swinging through wall, impossible door opening, morphing background, liquid walls, melting geometry, disappearing objects, teleporting props, weightless movement, jitter, temporal flickering, motion smear, unnatural morph cut, over-sharpened edge halos, cartoon outlines, compression artifacts, low frame rate stutter, amateur handheld wobble, distorted perspective\"",
+                      "suggestedDurationSec":  5,
+                      "suggestedDurationFrames":  150,
+                      "crew":  {
+                                   "director":  {
+                                                    "intent":  "Scene 05 // The 45-Second Virtual Inspection",
+                                                    "blocking":  "A dynamic countdown timer ticks on screen (00:00:42). Verified apartment cards arrive with video walkthroughs. Femi taps \u0027View Apartment\u0027, then \u0027Book Virtual Inspection\u0027. Instant live video call connects with a leasing agent walking through a bright, sunlit Lekki flat. Femi grins: \u0027I\u0027ll go for this.\u0027",
+                                                    "status":  "APPROVED // MOVIE-COMMERCIAL CONTINUITY"
+                                                },
+                                   "cinematographer":  {
+                                                           "lens":  "Zeiss 100mm Macro Master Prime, f/2.0",
+                                                           "rig":  "Precision mechanical slider on solid oak workbench",
+                                                           "framing":  "Macro Workbench Slider Push-In",
+                                                           "opticalBokeh":  "Organic anamorphic oval bokeh, f/2.0"
+                                                       },
+                                   "gafferAndLighting":  {
+                                                             "skinRendering":  "Subsurface Scattering (SSS) Active \u0026 Epidermal Pores",
+                                                             "colorTemperature":  "Warm Amber Workbench (2800K) vs Cold Storm Cyan (6500K)",
+                                                             "contrastRatio":  "10:1 Cinematic Low-Key Chiaroscuro"
+                                                         },
+                                   "vfxAndPhysics":  {
+                                                         "collisionIntegrity":  "STRICT LOCK // ZERO NOCLIP",
+                                                         "phasingShield":  "Doors, drafting tables, and chairs are rigid solids",
+                                                         "fluidDynamics":  "Hydrophobic water beading \u0026 splash displacement locked"
+                                                     },
+                                   "continuityLead":  {
+                                                          "eyelineRule":  "180-Degree Axis Maintained",
+                                                          "wardrobeMatch":  "Locked to Technical Jacket Model Sheet",
+                                                          "spatialTopology":  "Atelier Interior to Outdoor Storm Transition Verified"
+                                                      }
+                               },
+                      "status":  "ready",
+                      "videoClipUrl":  "/assets/shots/shot_5.mp4"
+                  },
+                  {
+                      "id":  "shot-6",
+                      "code":  "SC01_SH06",
+                      "sceneTitle":  "Scene 06 // Packing Bags \u0026 Ready to Roll",
+                      "narration":  "Packed, ready, and moving in on your own terms.",
+                      "character":  "Femi (Head of Marketing)",
+                      "characterSheetRef":  "/assets/characters/femi_lead_sheet.png",
+                      "environment":  "Executive High-Rise \u0026 Luxury Lekki Apartment",
+                      "sceneSheetRef":  "/assets/scenes/lagos_luxury_scene_sheet.png",
+                      "framing":  "Medium Grounded Tracking Push",
+                      "lens":  "Cooke 35mm Anamorphic, eye level",
+                      "cameraFlag":  "--camera-move grounded-dolly --speed medium",
+                      "physicsConstraint":  "Designer walks around drafting table with natural clearance; zips up the technical storm jacket on protagonist with authentic metal teeth engagement; protagonist steps toward solid industrial door, turns physical brass handle downward, door swings open naturally on steel hinges",
+                      "googleFlowPrompt":  "Cinematic movie commercial: Warm morning sunlight streaming through curtains. Femi zips up leather duffel bags, throws them over his shoulder, grabs keys with a confident swagger: \u0027Lagos, here I come.\u0027. Subject: Femi (Head of Marketing), wearing Tailored charcoal grey slim-fit blazer with crisp white shirt; later smart casual lounge jacket, matching character turnaround sheet. Environment: Executive High-Rise \u0026 Luxury Lekki Apartment, dark atmospheric chiaroscuro lighting, deep shadows, authentic rain reflections, matching environment sheet. Camera: Medium Grounded Tracking Push, shot on Cooke 35mm Anamorphic, eye level on Chapman Peewee Dolly gliding across workshop floor, authentic 35mm anamorphic bokeh, true motion blur and speed ramping. Visual \u0026 Texture Fidelity: Raw uncompressed cinema camera capture, true subsurface scattering (SSS) on human skin, visible skin pores, natural dermal imperfections, fine vellus facial hairs, and authentic specular light sheen on wet surfaces. Zero artificial smoothing, zero plastic appearance, completely indistinguishable from 35mm film cinema. Physical \u0026 Spatial Constraints: Designer walks around drafting table with natural clearance; zips up the technical storm jacket on protagonist with authentic metal teeth engagement; protagonist steps toward solid industrial door, turns physical brass handle downward, door swings open naturally on steel hinges. Solid objects (doors, desks, chairs, floors) are completely rigid with zero noclip or phasing. Character movement respects gravity, natural mass, and realistic joint biomechanics. --camera-move grounded-dolly --speed medium --seed-frame-ref \"/assets/characters/femi_lead_sheet.png\" --aspect-ratio 16:9 --motion-intensity 7 --negative-prompt \"plastic skin, wax figure, airbrushed, porcelain skin, smoothed pores, doll face, CGI render, 3D video game, uncanny valley, deformed iris, crossed eyes, asymmetrical pupil, extra fingers, fused digits, missing knuckle, rubber skin, excessive beauty filter, noclip, phasing through furniture, walking through tables, walking through chairs, feet sliding on ground, moonwalking, floating above floor, body intersecting solid objects, door swinging through wall, impossible door opening, morphing background, liquid walls, melting geometry, disappearing objects, teleporting props, weightless movement, jitter, temporal flickering, motion smear, unnatural morph cut, over-sharpened edge halos, cartoon outlines, compression artifacts, low frame rate stutter, amateur handheld wobble, distorted perspective\"",
+                      "suggestedDurationSec":  3,
+                      "suggestedDurationFrames":  90,
+                      "crew":  {
+                                   "director":  {
+                                                    "intent":  "Scene 06 // Packing Bags \u0026 Ready to Roll",
+                                                    "blocking":  "Warm morning sunlight streaming through curtains. Femi zips up leather duffel bags, throws them over his shoulder, grabs keys with a confident swagger: \u0027Lagos, here I come.\u0027",
+                                                    "status":  "APPROVED // MOVIE-COMMERCIAL CONTINUITY"
+                                                },
+                                   "cinematographer":  {
+                                                           "lens":  "Cooke 35mm Anamorphic, eye level",
+                                                           "rig":  "Chapman Peewee Dolly gliding across workshop floor",
+                                                           "framing":  "Medium Grounded Tracking Push",
+                                                           "opticalBokeh":  "Organic anamorphic oval bokeh, f/2.0"
+                                                       },
+                                   "gafferAndLighting":  {
+                                                             "skinRendering":  "Subsurface Scattering (SSS) Active \u0026 Epidermal Pores",
+                                                             "colorTemperature":  "Warm Amber Workbench (2800K) vs Cold Storm Cyan (6500K)",
+                                                             "contrastRatio":  "10:1 Cinematic Low-Key Chiaroscuro"
+                                                         },
+                                   "vfxAndPhysics":  {
+                                                         "collisionIntegrity":  "STRICT LOCK // ZERO NOCLIP",
+                                                         "phasingShield":  "Doors, drafting tables, and chairs are rigid solids",
+                                                         "fluidDynamics":  "Hydrophobic water beading \u0026 splash displacement locked"
+                                                     },
+                                   "continuityLead":  {
+                                                          "eyelineRule":  "180-Degree Axis Maintained",
+                                                          "wardrobeMatch":  "Locked to Technical Jacket Model Sheet",
+                                                          "spatialTopology":  "Atelier Interior to Outdoor Storm Transition Verified"
+                                                      }
+                               },
+                      "status":  "ready",
+                      "videoClipUrl":  "/assets/shots/shot_6.mp4"
+                  },
+                  {
+                      "id":  "shot-7",
+                      "code":  "SC01_SH07",
+                      "sceneTitle":  "Scene 07 // The Official Brand Outro",
+                      "narration":  "Finding your next home shouldn\u0027t take weeks. It takes seconds. Chat Chatty on WhatsApp and move in.",
+                      "character":  "Femi (Head of Marketing)",
+                      "characterSheetRef":  "/assets/characters/femi_lead_sheet.png",
+                      "environment":  "Executive High-Rise \u0026 Luxury Lekki Apartment",
+                      "sceneSheetRef":  "/assets/scenes/lagos_luxury_scene_sheet.png",
+                      "framing":  "Low-Angle Cataclysmic Dolly Forward",
+                      "lens":  "Panavision 24mm Anamorphic, low angle",
+                      "cameraFlag":  "--camera-move low-angle-forward --speed slow --fps 120-slowmo",
+                      "physicsConstraint":  "Category-5 driving rain crashes against protagonist; water droplets strike waterproof jacket fabric and instantly shatter into microscopic beads that roll off; wind bends trees in background without affecting solid ground; protagonist stands completely grounded with firm footing, completely dry inside",
+                      "googleFlowPrompt":  "Cinematic movie commercial: Sleek brand outro card with glowing WhatsApp green accents. Clean phone mockup showing confirmed booking badge.. Subject: Femi (Head of Marketing), wearing Tailored charcoal grey slim-fit blazer with crisp white shirt; later smart casual lounge jacket, matching character turnaround sheet. Environment: Executive High-Rise \u0026 Luxury Lekki Apartment, dark atmospheric chiaroscuro lighting, deep shadows, authentic rain reflections, matching environment sheet. Camera: Low-Angle Cataclysmic Dolly Forward, shot on Panavision 24mm Anamorphic, low angle on Rain-sealed Steadicam pushing forward into the tempest, authentic 35mm anamorphic bokeh, true motion blur and speed ramping. Visual \u0026 Texture Fidelity: Raw uncompressed cinema camera capture, true subsurface scattering (SSS) on human skin, visible skin pores, natural dermal imperfections, fine vellus facial hairs, and authentic specular light sheen on wet surfaces. Zero artificial smoothing, zero plastic appearance, completely indistinguishable from 35mm film cinema. Physical \u0026 Spatial Constraints: Category-5 driving rain crashes against protagonist; water droplets strike waterproof jacket fabric and instantly shatter into microscopic beads that roll off; wind bends trees in background without affecting solid ground; protagonist stands completely grounded with firm footing, completely dry inside. Solid objects (doors, desks, chairs, floors) are completely rigid with zero noclip or phasing. Character movement respects gravity, natural mass, and realistic joint biomechanics. --camera-move low-angle-forward --speed slow --fps 120-slowmo --seed-frame-ref \"/assets/characters/femi_lead_sheet.png\" --aspect-ratio 16:9 --motion-intensity 7 --negative-prompt \"plastic skin, wax figure, airbrushed, porcelain skin, smoothed pores, doll face, CGI render, 3D video game, uncanny valley, deformed iris, crossed eyes, asymmetrical pupil, extra fingers, fused digits, missing knuckle, rubber skin, excessive beauty filter, noclip, phasing through furniture, walking through tables, walking through chairs, feet sliding on ground, moonwalking, floating above floor, body intersecting solid objects, door swinging through wall, impossible door opening, morphing background, liquid walls, melting geometry, disappearing objects, teleporting props, weightless movement, jitter, temporal flickering, motion smear, unnatural morph cut, over-sharpened edge halos, cartoon outlines, compression artifacts, low frame rate stutter, amateur handheld wobble, distorted perspective\"",
+                      "suggestedDurationSec":  4,
+                      "suggestedDurationFrames":  120,
+                      "crew":  {
+                                   "director":  {
+                                                    "intent":  "Scene 07 // The Official Brand Outro",
+                                                    "blocking":  "Sleek brand outro card with glowing WhatsApp green accents. Clean phone mockup showing confirmed booking badge.",
+                                                    "status":  "APPROVED // MOVIE-COMMERCIAL CONTINUITY"
+                                                },
+                                   "cinematographer":  {
+                                                           "lens":  "Panavision 24mm Anamorphic, low angle",
+                                                           "rig":  "Rain-sealed Steadicam pushing forward into the tempest",
+                                                           "framing":  "Low-Angle Cataclysmic Dolly Forward",
+                                                           "opticalBokeh":  "Organic anamorphic oval bokeh, f/2.0"
+                                                       },
+                                   "gafferAndLighting":  {
+                                                             "skinRendering":  "Subsurface Scattering (SSS) Active \u0026 Epidermal Pores",
+                                                             "colorTemperature":  "Warm Amber Workbench (2800K) vs Cold Storm Cyan (6500K)",
+                                                             "contrastRatio":  "10:1 Cinematic Low-Key Chiaroscuro"
+                                                         },
+                                   "vfxAndPhysics":  {
+                                                         "collisionIntegrity":  "STRICT LOCK // ZERO NOCLIP",
+                                                         "phasingShield":  "Doors, drafting tables, and chairs are rigid solids",
+                                                         "fluidDynamics":  "Hydrophobic water beading \u0026 splash displacement locked"
+                                                     },
+                                   "continuityLead":  {
+                                                          "eyelineRule":  "180-Degree Axis Maintained",
+                                                          "wardrobeMatch":  "Locked to Technical Jacket Model Sheet",
+                                                          "spatialTopology":  "Atelier Interior to Outdoor Storm Transition Verified"
+                                                      }
+                               },
+                      "status":  "ready",
+                      "videoClipUrl":  "/assets/shots/shot_7.mp4"
+                  }
+              ]
+}

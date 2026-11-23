@@ -1,0 +1,206 @@
+{
+  "id": "story-1795170405765",
+  "title": "How Steve Jobs Saved Apple in 1997",
+  "description": "Automated motion graphics storyboard for How Steve Jobs Saved Apple in 1997",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "aspectRatio": "16:9",
+  "theme": {
+    "primaryColor": "#08090d",
+    "accentColor": "#eab308",
+    "textColor": "#ffffff",
+    "paperColor": "#faf6ea",
+    "fontFamilyHeading": "Impact, \"Bebas Neue\", sans-serif",
+    "fontFamilyBody": "\"Roboto\", sans-serif",
+    "bgType": "paper-dark"
+  },
+  "scenes": [
+    {
+      "id": "scene-1-cold-open",
+      "title": "The Cold Open Hook",
+      "durationInFrames": 90,
+      "background": {
+        "type": "paper-dark",
+        "showCoordinates": true,
+        "showGrain": true
+      },
+      "camera": {
+        "zoom": [
+          1,
+          1.12
+        ],
+        "tilt": [
+          0,
+          -1
+        ],
+        "shakeIntensity": 1.2
+      },
+      "headline": {
+        "text": "HOW STEVE JOBS SAVED APPLE IN 1997",
+        "highlightWords": [
+          "HOW",
+          "STEVE"
+        ],
+        "animation": "staggered-slide"
+      },
+      "captions": [
+        {
+          "id": "cap-1",
+          "startFrame": 5,
+          "endFrame": 45,
+          "text": "This is the untold story of How Steve Jobs Saved Apple in 1997."
+        },
+        {
+          "id": "cap-2",
+          "startFrame": 50,
+          "endFrame": 85,
+          "text": "And how it fundamentally changed the world forever."
+        }
+      ],
+      "soundEffects": [
+        {
+          "id": "sfx-1",
+          "frame": 2,
+          "type": "whoosh"
+        },
+        {
+          "id": "sfx-2",
+          "frame": 25,
+          "type": "pop"
+        }
+      ]
+    },
+    {
+      "id": "scene-2-the-crisis",
+      "title": "The Investigation / Crisis",
+      "durationInFrames": 110,
+      "background": {
+        "type": "paper-dark",
+        "showGrain": true
+      },
+      "camera": {
+        "zoom": [
+          1.02,
+          1.15
+        ],
+        "panY": [
+          0,
+          -15
+        ]
+      },
+      "newspaper": {
+        "masthead": "THE GLOBAL INQUIRER",
+        "date": "SPECIAL REPORT",
+        "headline": "THE MOMENT EVERYTHING CHANGED",
+        "subheadline": "Inside the high-stakes decision that shocked the market",
+        "columns": [
+          "Industry insiders recalled the tense closed-door meeting where the future hung in the balance. With everything on the line, traditional models were abandoned.",
+          "What followed would alter the course of modern business history and spark an international race for technical supremacy."
+        ],
+        "highlightPhrase": "With everything on the line, traditional models were abandoned.",
+        "redactedPhrase": "CONFIDENTIAL EXECUTIVE ARCHIVE"
+      },
+      "captions": [
+        {
+          "id": "cap-3",
+          "startFrame": 5,
+          "endFrame": 55,
+          "text": "Behind closed doors, a critical turning point emerged."
+        },
+        {
+          "id": "cap-4",
+          "startFrame": 60,
+          "endFrame": 105,
+          "text": "The stakes could not have been higher."
+        }
+      ],
+      "soundEffects": [
+        {
+          "id": "sfx-3",
+          "frame": 5,
+          "type": "paper-crinkle"
+        },
+        {
+          "id": "sfx-4",
+          "frame": 35,
+          "type": "stamp"
+        },
+        {
+          "id": "sfx-5",
+          "frame": 65,
+          "type": "marker"
+        }
+      ]
+    },
+    {
+      "id": "scene-3-data-breakthrough",
+      "title": "The Breakthrough",
+      "durationInFrames": 100,
+      "background": {
+        "type": "blueprint"
+      },
+      "camera": {
+        "zoom": [
+          1,
+          1.1
+        ]
+      },
+      "headline": {
+        "text": "THE EXPONENTIAL SURGE",
+        "highlightWords": [
+          "EXPONENTIAL",
+          "SURGE"
+        ],
+        "animation": "spring-pop"
+      },
+      "diagram": {
+        "type": "barchart",
+        "items": [
+          {
+            "label": "Phase 1",
+            "value": 25
+          },
+          {
+            "label": "Phase 2",
+            "value": 120
+          },
+          {
+            "label": "Phase 3",
+            "value": 450
+          },
+          {
+            "label": "Phase 4",
+            "value": 1800
+          }
+        ]
+      },
+      "captions": [
+        {
+          "id": "cap-5",
+          "startFrame": 5,
+          "endFrame": 50,
+          "text": "Then came an unprecedented wave of growth."
+        },
+        {
+          "id": "cap-6",
+          "startFrame": 55,
+          "endFrame": 95,
+          "text": "Scaling beyond what anyone thought was possible."
+        }
+      ],
+      "soundEffects": [
+        {
+          "id": "sfx-6",
+          "frame": 5,
+          "type": "whoosh"
+        },
+        {
+          "id": "sfx-7",
+          "frame": 45,
+          "type": "bell"
+        }
+      ]
+    }
+  ]
+}

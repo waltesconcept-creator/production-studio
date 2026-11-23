@@ -1,0 +1,1269 @@
+{
+  "audioFile": "/audio/adedibu-voiceover.mp3",
+  "voice": "en-US-ChristopherNeural",
+  "fps": 30,
+  "durationSeconds": 80.07,
+  "totalFrames": 2402,
+  "captions": [
+    {
+      "id": "cap-1",
+      "startFrame": 3,
+      "endFrame": 290,
+      "startMs": 100.0,
+      "endMs": 9675.0,
+      "text": "In the early 2000s, men who owned private jets and commanded thousands of police officers would fly to Ibadan... just to eat amala in an ordinary house.",
+      "words": [
+        {
+          "word": "In",
+          "startFrame": 3,
+          "endFrame": 14
+        },
+        {
+          "word": "the",
+          "startFrame": 14,
+          "endFrame": 24
+        },
+        {
+          "word": "early",
+          "startFrame": 24,
+          "endFrame": 35
+        },
+        {
+          "word": "2000s,",
+          "startFrame": 35,
+          "endFrame": 46
+        },
+        {
+          "word": "men",
+          "startFrame": 46,
+          "endFrame": 56
+        },
+        {
+          "word": "who",
+          "startFrame": 56,
+          "endFrame": 67
+        },
+        {
+          "word": "owned",
+          "startFrame": 67,
+          "endFrame": 77
+        },
+        {
+          "word": "private",
+          "startFrame": 77,
+          "endFrame": 88
+        },
+        {
+          "word": "jets",
+          "startFrame": 88,
+          "endFrame": 99
+        },
+        {
+          "word": "and",
+          "startFrame": 99,
+          "endFrame": 109
+        },
+        {
+          "word": "commanded",
+          "startFrame": 109,
+          "endFrame": 120
+        },
+        {
+          "word": "thousands",
+          "startFrame": 120,
+          "endFrame": 131
+        },
+        {
+          "word": "of",
+          "startFrame": 131,
+          "endFrame": 141
+        },
+        {
+          "word": "police",
+          "startFrame": 141,
+          "endFrame": 152
+        },
+        {
+          "word": "officers",
+          "startFrame": 152,
+          "endFrame": 162
+        },
+        {
+          "word": "would",
+          "startFrame": 162,
+          "endFrame": 173
+        },
+        {
+          "word": "fly",
+          "startFrame": 173,
+          "endFrame": 184
+        },
+        {
+          "word": "to",
+          "startFrame": 184,
+          "endFrame": 194
+        },
+        {
+          "word": "Ibadan...",
+          "startFrame": 194,
+          "endFrame": 205
+        },
+        {
+          "word": "just",
+          "startFrame": 205,
+          "endFrame": 216
+        },
+        {
+          "word": "to",
+          "startFrame": 216,
+          "endFrame": 226
+        },
+        {
+          "word": "eat",
+          "startFrame": 226,
+          "endFrame": 237
+        },
+        {
+          "word": "amala",
+          "startFrame": 237,
+          "endFrame": 247
+        },
+        {
+          "word": "in",
+          "startFrame": 247,
+          "endFrame": 258
+        },
+        {
+          "word": "an",
+          "startFrame": 258,
+          "endFrame": 269
+        },
+        {
+          "word": "ordinary",
+          "startFrame": 269,
+          "endFrame": 279
+        },
+        {
+          "word": "house.",
+          "startFrame": 279,
+          "endFrame": 290
+        }
+      ]
+    },
+    {
+      "id": "cap-2",
+      "startFrame": 289,
+      "endFrame": 576,
+      "startMs": 9625.0,
+      "endMs": 19212.5,
+      "text": "And you have to ask yourself: Why would a billionaire or an aspiring governor wait for five hours in an open compound in Molete just to see an old man in an agbada?",
+      "words": [
+        {
+          "word": "And",
+          "startFrame": 289,
+          "endFrame": 298
+        },
+        {
+          "word": "you",
+          "startFrame": 298,
+          "endFrame": 306
+        },
+        {
+          "word": "have",
+          "startFrame": 306,
+          "endFrame": 315
+        },
+        {
+          "word": "to",
+          "startFrame": 315,
+          "endFrame": 324
+        },
+        {
+          "word": "ask",
+          "startFrame": 324,
+          "endFrame": 332
+        },
+        {
+          "word": "yourself:",
+          "startFrame": 332,
+          "endFrame": 341
+        },
+        {
+          "word": "Why",
+          "startFrame": 341,
+          "endFrame": 350
+        },
+        {
+          "word": "would",
+          "startFrame": 350,
+          "endFrame": 359
+        },
+        {
+          "word": "a",
+          "startFrame": 359,
+          "endFrame": 367
+        },
+        {
+          "word": "billionaire",
+          "startFrame": 367,
+          "endFrame": 376
+        },
+        {
+          "word": "or",
+          "startFrame": 376,
+          "endFrame": 385
+        },
+        {
+          "word": "an",
+          "startFrame": 385,
+          "endFrame": 393
+        },
+        {
+          "word": "aspiring",
+          "startFrame": 393,
+          "endFrame": 402
+        },
+        {
+          "word": "governor",
+          "startFrame": 402,
+          "endFrame": 411
+        },
+        {
+          "word": "wait",
+          "startFrame": 411,
+          "endFrame": 419
+        },
+        {
+          "word": "for",
+          "startFrame": 419,
+          "endFrame": 428
+        },
+        {
+          "word": "five",
+          "startFrame": 428,
+          "endFrame": 437
+        },
+        {
+          "word": "hours",
+          "startFrame": 437,
+          "endFrame": 446
+        },
+        {
+          "word": "in",
+          "startFrame": 446,
+          "endFrame": 454
+        },
+        {
+          "word": "an",
+          "startFrame": 454,
+          "endFrame": 463
+        },
+        {
+          "word": "open",
+          "startFrame": 463,
+          "endFrame": 472
+        },
+        {
+          "word": "compound",
+          "startFrame": 472,
+          "endFrame": 480
+        },
+        {
+          "word": "in",
+          "startFrame": 480,
+          "endFrame": 489
+        },
+        {
+          "word": "Molete",
+          "startFrame": 489,
+          "endFrame": 498
+        },
+        {
+          "word": "just",
+          "startFrame": 498,
+          "endFrame": 506
+        },
+        {
+          "word": "to",
+          "startFrame": 506,
+          "endFrame": 515
+        },
+        {
+          "word": "see",
+          "startFrame": 515,
+          "endFrame": 524
+        },
+        {
+          "word": "an",
+          "startFrame": 524,
+          "endFrame": 533
+        },
+        {
+          "word": "old",
+          "startFrame": 533,
+          "endFrame": 541
+        },
+        {
+          "word": "man",
+          "startFrame": 541,
+          "endFrame": 550
+        },
+        {
+          "word": "in",
+          "startFrame": 550,
+          "endFrame": 559
+        },
+        {
+          "word": "an",
+          "startFrame": 559,
+          "endFrame": 567
+        },
+        {
+          "word": "agbada?",
+          "startFrame": 567,
+          "endFrame": 576
+        }
+      ]
+    },
+    {
+      "id": "cap-3",
+      "startFrame": 576,
+      "endFrame": 712,
+      "startMs": 19212.5,
+      "endMs": 23725.0,
+      "text": "The funny thing is, Chief Lamidi Adedibu was not a governor.",
+      "words": [
+        {
+          "word": "The",
+          "startFrame": 576,
+          "endFrame": 588
+        },
+        {
+          "word": "funny",
+          "startFrame": 588,
+          "endFrame": 601
+        },
+        {
+          "word": "thing",
+          "startFrame": 601,
+          "endFrame": 613
+        },
+        {
+          "word": "is,",
+          "startFrame": 613,
+          "endFrame": 625
+        },
+        {
+          "word": "Chief",
+          "startFrame": 625,
+          "endFrame": 638
+        },
+        {
+          "word": "Lamidi",
+          "startFrame": 638,
+          "endFrame": 650
+        },
+        {
+          "word": "Adedibu",
+          "startFrame": 650,
+          "endFrame": 663
+        },
+        {
+          "word": "was",
+          "startFrame": 663,
+          "endFrame": 675
+        },
+        {
+          "word": "not",
+          "startFrame": 675,
+          "endFrame": 687
+        },
+        {
+          "word": "a",
+          "startFrame": 687,
+          "endFrame": 700
+        },
+        {
+          "word": "governor.",
+          "startFrame": 700,
+          "endFrame": 712
+        }
+      ]
+    },
+    {
+      "id": "cap-4",
+      "startFrame": 712,
+      "endFrame": 775,
+      "startMs": 23725.0,
+      "endMs": 25825.0,
+      "text": "He was not a senator.",
+      "words": [
+        {
+          "word": "He",
+          "startFrame": 712,
+          "endFrame": 725
+        },
+        {
+          "word": "was",
+          "startFrame": 725,
+          "endFrame": 737
+        },
+        {
+          "word": "not",
+          "startFrame": 737,
+          "endFrame": 750
+        },
+        {
+          "word": "a",
+          "startFrame": 750,
+          "endFrame": 762
+        },
+        {
+          "word": "senator.",
+          "startFrame": 762,
+          "endFrame": 775
+        }
+      ]
+    },
+    {
+      "id": "cap-5",
+      "startFrame": 775,
+      "endFrame": 862,
+      "startMs": 25825.0,
+      "endMs": 28725.0,
+      "text": "He held no official government title.",
+      "words": [
+        {
+          "word": "He",
+          "startFrame": 775,
+          "endFrame": 790
+        },
+        {
+          "word": "held",
+          "startFrame": 790,
+          "endFrame": 804
+        },
+        {
+          "word": "no",
+          "startFrame": 804,
+          "endFrame": 818
+        },
+        {
+          "word": "official",
+          "startFrame": 818,
+          "endFrame": 833
+        },
+        {
+          "word": "government",
+          "startFrame": 833,
+          "endFrame": 848
+        },
+        {
+          "word": "title.",
+          "startFrame": 848,
+          "endFrame": 862
+        }
+      ]
+    },
+    {
+      "id": "cap-6",
+      "startFrame": 862,
+      "endFrame": 1008,
+      "startMs": 28725.0,
+      "endMs": 33587.5,
+      "text": "And yet, nobody in Oyo State could win an election without his blessing.",
+      "words": [
+        {
+          "word": "And",
+          "startFrame": 862,
+          "endFrame": 873
+        },
+        {
+          "word": "yet,",
+          "startFrame": 873,
+          "endFrame": 884
+        },
+        {
+          "word": "nobody",
+          "startFrame": 884,
+          "endFrame": 896
+        },
+        {
+          "word": "in",
+          "startFrame": 896,
+          "endFrame": 907
+        },
+        {
+          "word": "Oyo",
+          "startFrame": 907,
+          "endFrame": 918
+        },
+        {
+          "word": "State",
+          "startFrame": 918,
+          "endFrame": 929
+        },
+        {
+          "word": "could",
+          "startFrame": 929,
+          "endFrame": 941
+        },
+        {
+          "word": "win",
+          "startFrame": 941,
+          "endFrame": 952
+        },
+        {
+          "word": "an",
+          "startFrame": 952,
+          "endFrame": 963
+        },
+        {
+          "word": "election",
+          "startFrame": 963,
+          "endFrame": 974
+        },
+        {
+          "word": "without",
+          "startFrame": 974,
+          "endFrame": 986
+        },
+        {
+          "word": "his",
+          "startFrame": 986,
+          "endFrame": 997
+        },
+        {
+          "word": "blessing.",
+          "startFrame": 997,
+          "endFrame": 1008
+        }
+      ]
+    },
+    {
+      "id": "cap-7",
+      "startFrame": 1008,
+      "endFrame": 1179,
+      "startMs": 33587.5,
+      "endMs": 39300.0,
+      "text": "Because you see, Adedibu understood a brutal truth that most politicians never learn.",
+      "words": [
+        {
+          "word": "Because",
+          "startFrame": 1008,
+          "endFrame": 1021
+        },
+        {
+          "word": "you",
+          "startFrame": 1021,
+          "endFrame": 1034
+        },
+        {
+          "word": "see,",
+          "startFrame": 1034,
+          "endFrame": 1047
+        },
+        {
+          "word": "Adedibu",
+          "startFrame": 1047,
+          "endFrame": 1061
+        },
+        {
+          "word": "understood",
+          "startFrame": 1061,
+          "endFrame": 1074
+        },
+        {
+          "word": "a",
+          "startFrame": 1074,
+          "endFrame": 1087
+        },
+        {
+          "word": "brutal",
+          "startFrame": 1087,
+          "endFrame": 1100
+        },
+        {
+          "word": "truth",
+          "startFrame": 1100,
+          "endFrame": 1113
+        },
+        {
+          "word": "that",
+          "startFrame": 1113,
+          "endFrame": 1126
+        },
+        {
+          "word": "most",
+          "startFrame": 1126,
+          "endFrame": 1140
+        },
+        {
+          "word": "politicians",
+          "startFrame": 1140,
+          "endFrame": 1153
+        },
+        {
+          "word": "never",
+          "startFrame": 1153,
+          "endFrame": 1166
+        },
+        {
+          "word": "learn.",
+          "startFrame": 1166,
+          "endFrame": 1179
+        }
+      ]
+    },
+    {
+      "id": "cap-8",
+      "startFrame": 1179,
+      "endFrame": 1275,
+      "startMs": 39300.0,
+      "endMs": 42487.5,
+      "text": "He knew power does not live on billboards.",
+      "words": [
+        {
+          "word": "He",
+          "startFrame": 1179,
+          "endFrame": 1191
+        },
+        {
+          "word": "knew",
+          "startFrame": 1191,
+          "endFrame": 1203
+        },
+        {
+          "word": "power",
+          "startFrame": 1203,
+          "endFrame": 1215
+        },
+        {
+          "word": "does",
+          "startFrame": 1215,
+          "endFrame": 1227
+        },
+        {
+          "word": "not",
+          "startFrame": 1227,
+          "endFrame": 1239
+        },
+        {
+          "word": "live",
+          "startFrame": 1239,
+          "endFrame": 1251
+        },
+        {
+          "word": "on",
+          "startFrame": 1251,
+          "endFrame": 1263
+        },
+        {
+          "word": "billboards.",
+          "startFrame": 1263,
+          "endFrame": 1275
+        }
+      ]
+    },
+    {
+      "id": "cap-9",
+      "startFrame": 1275,
+      "endFrame": 1343,
+      "startMs": 42487.5,
+      "endMs": 44762.5,
+      "text": "Power lives on the street.",
+      "words": [
+        {
+          "word": "Power",
+          "startFrame": 1275,
+          "endFrame": 1289
+        },
+        {
+          "word": "lives",
+          "startFrame": 1289,
+          "endFrame": 1302
+        },
+        {
+          "word": "on",
+          "startFrame": 1302,
+          "endFrame": 1316
+        },
+        {
+          "word": "the",
+          "startFrame": 1316,
+          "endFrame": 1329
+        },
+        {
+          "word": "street.",
+          "startFrame": 1329,
+          "endFrame": 1343
+        }
+      ]
+    },
+    {
+      "id": "cap-10",
+      "startFrame": 1343,
+      "endFrame": 1548,
+      "startMs": 44762.5,
+      "endMs": 51612.5,
+      "text": "Every single morning, his gates opened to hundreds of ordinary market women, bus drivers, and widows.",
+      "words": [
+        {
+          "word": "Every",
+          "startFrame": 1343,
+          "endFrame": 1356
+        },
+        {
+          "word": "single",
+          "startFrame": 1356,
+          "endFrame": 1369
+        },
+        {
+          "word": "morning,",
+          "startFrame": 1369,
+          "endFrame": 1381
+        },
+        {
+          "word": "his",
+          "startFrame": 1381,
+          "endFrame": 1394
+        },
+        {
+          "word": "gates",
+          "startFrame": 1394,
+          "endFrame": 1407
+        },
+        {
+          "word": "opened",
+          "startFrame": 1407,
+          "endFrame": 1420
+        },
+        {
+          "word": "to",
+          "startFrame": 1420,
+          "endFrame": 1433
+        },
+        {
+          "word": "hundreds",
+          "startFrame": 1433,
+          "endFrame": 1446
+        },
+        {
+          "word": "of",
+          "startFrame": 1446,
+          "endFrame": 1458
+        },
+        {
+          "word": "ordinary",
+          "startFrame": 1458,
+          "endFrame": 1471
+        },
+        {
+          "word": "market",
+          "startFrame": 1471,
+          "endFrame": 1484
+        },
+        {
+          "word": "women,",
+          "startFrame": 1484,
+          "endFrame": 1497
+        },
+        {
+          "word": "bus",
+          "startFrame": 1497,
+          "endFrame": 1510
+        },
+        {
+          "word": "drivers,",
+          "startFrame": 1510,
+          "endFrame": 1522
+        },
+        {
+          "word": "and",
+          "startFrame": 1522,
+          "endFrame": 1535
+        },
+        {
+          "word": "widows.",
+          "startFrame": 1535,
+          "endFrame": 1548
+        }
+      ]
+    },
+    {
+      "id": "cap-11",
+      "startFrame": 1548,
+      "endFrame": 1725,
+      "startMs": 51612.5,
+      "endMs": 57512.5,
+      "text": "He paid hospital bills, settled family fights, and fed everyone steaming hot food.",
+      "words": [
+        {
+          "word": "He",
+          "startFrame": 1548,
+          "endFrame": 1562
+        },
+        {
+          "word": "paid",
+          "startFrame": 1562,
+          "endFrame": 1575
+        },
+        {
+          "word": "hospital",
+          "startFrame": 1575,
+          "endFrame": 1589
+        },
+        {
+          "word": "bills,",
+          "startFrame": 1589,
+          "endFrame": 1602
+        },
+        {
+          "word": "settled",
+          "startFrame": 1602,
+          "endFrame": 1616
+        },
+        {
+          "word": "family",
+          "startFrame": 1616,
+          "endFrame": 1630
+        },
+        {
+          "word": "fights,",
+          "startFrame": 1630,
+          "endFrame": 1643
+        },
+        {
+          "word": "and",
+          "startFrame": 1643,
+          "endFrame": 1657
+        },
+        {
+          "word": "fed",
+          "startFrame": 1657,
+          "endFrame": 1671
+        },
+        {
+          "word": "everyone",
+          "startFrame": 1671,
+          "endFrame": 1684
+        },
+        {
+          "word": "steaming",
+          "startFrame": 1684,
+          "endFrame": 1698
+        },
+        {
+          "word": "hot",
+          "startFrame": 1698,
+          "endFrame": 1711
+        },
+        {
+          "word": "food.",
+          "startFrame": 1711,
+          "endFrame": 1725
+        }
+      ]
+    },
+    {
+      "id": "cap-12",
+      "startFrame": 1725,
+      "endFrame": 1857,
+      "startMs": 57512.5,
+      "endMs": 61900.0,
+      "text": "So when election day came, he did not need to beg for votes.",
+      "words": [
+        {
+          "word": "So",
+          "startFrame": 1725,
+          "endFrame": 1735
+        },
+        {
+          "word": "when",
+          "startFrame": 1735,
+          "endFrame": 1745
+        },
+        {
+          "word": "election",
+          "startFrame": 1745,
+          "endFrame": 1755
+        },
+        {
+          "word": "day",
+          "startFrame": 1755,
+          "endFrame": 1766
+        },
+        {
+          "word": "came,",
+          "startFrame": 1766,
+          "endFrame": 1776
+        },
+        {
+          "word": "he",
+          "startFrame": 1776,
+          "endFrame": 1786
+        },
+        {
+          "word": "did",
+          "startFrame": 1786,
+          "endFrame": 1796
+        },
+        {
+          "word": "not",
+          "startFrame": 1796,
+          "endFrame": 1806
+        },
+        {
+          "word": "need",
+          "startFrame": 1806,
+          "endFrame": 1816
+        },
+        {
+          "word": "to",
+          "startFrame": 1816,
+          "endFrame": 1827
+        },
+        {
+          "word": "beg",
+          "startFrame": 1827,
+          "endFrame": 1837
+        },
+        {
+          "word": "for",
+          "startFrame": 1837,
+          "endFrame": 1847
+        },
+        {
+          "word": "votes.",
+          "startFrame": 1847,
+          "endFrame": 1857
+        }
+      ]
+    },
+    {
+      "id": "cap-13",
+      "startFrame": 1857,
+      "endFrame": 1958,
+      "startMs": 61900.0,
+      "endMs": 65262.5,
+      "text": "The street was already completely loyal to him.",
+      "words": [
+        {
+          "word": "The",
+          "startFrame": 1857,
+          "endFrame": 1870
+        },
+        {
+          "word": "street",
+          "startFrame": 1870,
+          "endFrame": 1882
+        },
+        {
+          "word": "was",
+          "startFrame": 1882,
+          "endFrame": 1895
+        },
+        {
+          "word": "already",
+          "startFrame": 1895,
+          "endFrame": 1908
+        },
+        {
+          "word": "completely",
+          "startFrame": 1908,
+          "endFrame": 1920
+        },
+        {
+          "word": "loyal",
+          "startFrame": 1920,
+          "endFrame": 1933
+        },
+        {
+          "word": "to",
+          "startFrame": 1933,
+          "endFrame": 1945
+        },
+        {
+          "word": "him.",
+          "startFrame": 1945,
+          "endFrame": 1958
+        }
+      ]
+    },
+    {
+      "id": "cap-14",
+      "startFrame": 1958,
+      "endFrame": 2079,
+      "startMs": 65262.5,
+      "endMs": 69312.5,
+      "text": "And that is the real reason people still whisper about Molete.",
+      "words": [
+        {
+          "word": "And",
+          "startFrame": 1958,
+          "endFrame": 1969
+        },
+        {
+          "word": "that",
+          "startFrame": 1969,
+          "endFrame": 1980
+        },
+        {
+          "word": "is",
+          "startFrame": 1980,
+          "endFrame": 1991
+        },
+        {
+          "word": "the",
+          "startFrame": 1991,
+          "endFrame": 2002
+        },
+        {
+          "word": "real",
+          "startFrame": 2002,
+          "endFrame": 2013
+        },
+        {
+          "word": "reason",
+          "startFrame": 2013,
+          "endFrame": 2024
+        },
+        {
+          "word": "people",
+          "startFrame": 2024,
+          "endFrame": 2035
+        },
+        {
+          "word": "still",
+          "startFrame": 2035,
+          "endFrame": 2046
+        },
+        {
+          "word": "whisper",
+          "startFrame": 2046,
+          "endFrame": 2057
+        },
+        {
+          "word": "about",
+          "startFrame": 2057,
+          "endFrame": 2068
+        },
+        {
+          "word": "Molete.",
+          "startFrame": 2068,
+          "endFrame": 2079
+        }
+      ]
+    },
+    {
+      "id": "cap-15",
+      "startFrame": 2079,
+      "endFrame": 2149,
+      "startMs": 69312.5,
+      "endMs": 71637.5,
+      "text": "It was never about the food.",
+      "words": [
+        {
+          "word": "It",
+          "startFrame": 2079,
+          "endFrame": 2091
+        },
+        {
+          "word": "was",
+          "startFrame": 2091,
+          "endFrame": 2102
+        },
+        {
+          "word": "never",
+          "startFrame": 2102,
+          "endFrame": 2114
+        },
+        {
+          "word": "about",
+          "startFrame": 2114,
+          "endFrame": 2126
+        },
+        {
+          "word": "the",
+          "startFrame": 2126,
+          "endFrame": 2137
+        },
+        {
+          "word": "food.",
+          "startFrame": 2137,
+          "endFrame": 2149
+        }
+      ]
+    },
+    {
+      "id": "cap-16",
+      "startFrame": 2149,
+      "endFrame": 2387,
+      "startMs": 71637.5,
+      "endMs": 79562.5,
+      "text": "It was proof that in Ibadan, you can have all the money in the world... but if you do not have the hearts of the people on the street, you have nothing.",
+      "words": [
+        {
+          "word": "It",
+          "startFrame": 2149,
+          "endFrame": 2156
+        },
+        {
+          "word": "was",
+          "startFrame": 2156,
+          "endFrame": 2164
+        },
+        {
+          "word": "proof",
+          "startFrame": 2164,
+          "endFrame": 2171
+        },
+        {
+          "word": "that",
+          "startFrame": 2171,
+          "endFrame": 2179
+        },
+        {
+          "word": "in",
+          "startFrame": 2179,
+          "endFrame": 2186
+        },
+        {
+          "word": "Ibadan,",
+          "startFrame": 2186,
+          "endFrame": 2194
+        },
+        {
+          "word": "you",
+          "startFrame": 2194,
+          "endFrame": 2201
+        },
+        {
+          "word": "can",
+          "startFrame": 2201,
+          "endFrame": 2208
+        },
+        {
+          "word": "have",
+          "startFrame": 2208,
+          "endFrame": 2216
+        },
+        {
+          "word": "all",
+          "startFrame": 2216,
+          "endFrame": 2223
+        },
+        {
+          "word": "the",
+          "startFrame": 2223,
+          "endFrame": 2231
+        },
+        {
+          "word": "money",
+          "startFrame": 2231,
+          "endFrame": 2238
+        },
+        {
+          "word": "in",
+          "startFrame": 2238,
+          "endFrame": 2246
+        },
+        {
+          "word": "the",
+          "startFrame": 2246,
+          "endFrame": 2253
+        },
+        {
+          "word": "world...",
+          "startFrame": 2253,
+          "endFrame": 2261
+        },
+        {
+          "word": "but",
+          "startFrame": 2261,
+          "endFrame": 2268
+        },
+        {
+          "word": "if",
+          "startFrame": 2268,
+          "endFrame": 2275
+        },
+        {
+          "word": "you",
+          "startFrame": 2275,
+          "endFrame": 2283
+        },
+        {
+          "word": "do",
+          "startFrame": 2283,
+          "endFrame": 2290
+        },
+        {
+          "word": "not",
+          "startFrame": 2290,
+          "endFrame": 2298
+        },
+        {
+          "word": "have",
+          "startFrame": 2298,
+          "endFrame": 2305
+        },
+        {
+          "word": "the",
+          "startFrame": 2305,
+          "endFrame": 2313
+        },
+        {
+          "word": "hearts",
+          "startFrame": 2313,
+          "endFrame": 2320
+        },
+        {
+          "word": "of",
+          "startFrame": 2320,
+          "endFrame": 2328
+        },
+        {
+          "word": "the",
+          "startFrame": 2328,
+          "endFrame": 2335
+        },
+        {
+          "word": "people",
+          "startFrame": 2335,
+          "endFrame": 2342
+        },
+        {
+          "word": "on",
+          "startFrame": 2342,
+          "endFrame": 2350
+        },
+        {
+          "word": "the",
+          "startFrame": 2350,
+          "endFrame": 2357
+        },
+        {
+          "word": "street,",
+          "startFrame": 2357,
+          "endFrame": 2365
+        },
+        {
+          "word": "you",
+          "startFrame": 2365,
+          "endFrame": 2372
+        },
+        {
+          "word": "have",
+          "startFrame": 2372,
+          "endFrame": 2380
+        },
+        {
+          "word": "nothing.",
+          "startFrame": 2380,
+          "endFrame": 2387
+        }
+      ]
+    }
+  ]
+}

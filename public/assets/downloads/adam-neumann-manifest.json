@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Adam Neumann",
+    "localPath": "/assets/downloads/adam-neumann-1.jpg",
+    "diskPath": "public/assets/downloads\\adam-neumann-1.jpg",
+    "isCutout": false,
+    "width": 509,
+    "height": 625,
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mr._Adam_Neumann%2C_Founder_WeWork_%28Start_Up_India_Participant%29_call_on_the_Prime_Minister%2C_Shri_Narendra_Modi%2C_in_New_Delhi_on_January_15%2C_2016_-_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "ANeumann.jpg",
+    "localPath": "/assets/downloads/adam-neumann-3.jpg",
+    "diskPath": "public/assets/downloads\\adam-neumann-3.jpg",
+    "isCutout": false,
+    "width": 1400,
+    "height": 1400,
+    "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/ANeumann.jpg/1920px-ANeumann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "title": "Mr. Adam Neumann, Founder WeWork (Start Up India Participant) call on the Prime Minister, Shri Narendra Modi, in New Delhi on January 15, 2016.jpg",
+    "localPath": "/assets/downloads/adam-neumann-4.jpg",
+    "diskPath": "public/assets/downloads\\adam-neumann-4.jpg",
+    "isCutout": false,
+    "width": 1400,
+    "height": 1283,
+    "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Mr._Adam_Neumann%2C_Founder_WeWork_%28Start_Up_India_Participant%29_call_on_the_Prime_Minister%2C_Shri_Narendra_Modi%2C_in_New_Delhi_on_January_15%2C_2016.jpg/1920px-Mr._Adam_Neumann%2C_Founder_WeWork_%28Start_Up_India_Participant%29_call_on_the_Prime_Minister%2C_Shri_Narendra_Modi%2C_in_New_Delhi_on_January_15%2C_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  }
+]

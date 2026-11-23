@@ -1,0 +1,8 @@
+{
+  "audioFile": "/audio/adedibu-voice-fast.mp3",
+  "voice": "en-US-ChristopherNeural",
+  "rate": "+22%",
+  "totalFrames": 300,
+  "durationSeconds": 10.0,
+  "words": []
+}

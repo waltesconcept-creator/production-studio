@@ -1,0 +1,444 @@
+{
+  "audioFile": "/audio/active-voiceover.mp3",
+  "voice": "en-US-ChristopherNeural",
+  "fps": 30,
+  "durationSeconds": 32.1,
+  "totalFrames": 963,
+  "captions": [
+    {
+      "id": "cap-1",
+      "startFrame": 3,
+      "endFrame": 120,
+      "startMs": 100.0,
+      "endMs": 3987.5,
+      "text": "This is the untold story of How Stripe Beat PayPal.",
+      "words": [
+        {
+          "word": "This",
+          "startFrame": 3,
+          "endFrame": 15
+        },
+        {
+          "word": "is",
+          "startFrame": 15,
+          "endFrame": 26
+        },
+        {
+          "word": "the",
+          "startFrame": 26,
+          "endFrame": 38
+        },
+        {
+          "word": "untold",
+          "startFrame": 38,
+          "endFrame": 50
+        },
+        {
+          "word": "story",
+          "startFrame": 50,
+          "endFrame": 62
+        },
+        {
+          "word": "of",
+          "startFrame": 62,
+          "endFrame": 73
+        },
+        {
+          "word": "How",
+          "startFrame": 73,
+          "endFrame": 85
+        },
+        {
+          "word": "Stripe",
+          "startFrame": 85,
+          "endFrame": 97
+        },
+        {
+          "word": "Beat",
+          "startFrame": 97,
+          "endFrame": 108
+        },
+        {
+          "word": "PayPal.",
+          "startFrame": 108,
+          "endFrame": 120
+        }
+      ]
+    },
+    {
+      "id": "cap-2",
+      "startFrame": 118,
+      "endFrame": 254,
+      "startMs": 3937.5,
+      "endMs": 8475.0,
+      "text": "A daring high-stakes gamble that rewritten the rules of modern business.",
+      "words": [
+        {
+          "word": "A",
+          "startFrame": 118,
+          "endFrame": 130
+        },
+        {
+          "word": "daring",
+          "startFrame": 130,
+          "endFrame": 143
+        },
+        {
+          "word": "high-stakes",
+          "startFrame": 143,
+          "endFrame": 155
+        },
+        {
+          "word": "gamble",
+          "startFrame": 155,
+          "endFrame": 167
+        },
+        {
+          "word": "that",
+          "startFrame": 167,
+          "endFrame": 180
+        },
+        {
+          "word": "rewritten",
+          "startFrame": 180,
+          "endFrame": 192
+        },
+        {
+          "word": "the",
+          "startFrame": 192,
+          "endFrame": 205
+        },
+        {
+          "word": "rules",
+          "startFrame": 205,
+          "endFrame": 217
+        },
+        {
+          "word": "of",
+          "startFrame": 217,
+          "endFrame": 229
+        },
+        {
+          "word": "modern",
+          "startFrame": 229,
+          "endFrame": 242
+        },
+        {
+          "word": "business.",
+          "startFrame": 242,
+          "endFrame": 254
+        }
+      ]
+    },
+    {
+      "id": "cap-3",
+      "startFrame": 254,
+      "endFrame": 389,
+      "startMs": 8475.0,
+      "endMs": 12962.5,
+      "text": "Before the breakthrough, the founders were running out of time and capital.",
+      "words": [
+        {
+          "word": "Before",
+          "startFrame": 254,
+          "endFrame": 265
+        },
+        {
+          "word": "the",
+          "startFrame": 265,
+          "endFrame": 276
+        },
+        {
+          "word": "breakthrough,",
+          "startFrame": 276,
+          "endFrame": 288
+        },
+        {
+          "word": "the",
+          "startFrame": 288,
+          "endFrame": 299
+        },
+        {
+          "word": "founders",
+          "startFrame": 299,
+          "endFrame": 310
+        },
+        {
+          "word": "were",
+          "startFrame": 310,
+          "endFrame": 322
+        },
+        {
+          "word": "running",
+          "startFrame": 322,
+          "endFrame": 333
+        },
+        {
+          "word": "out",
+          "startFrame": 333,
+          "endFrame": 344
+        },
+        {
+          "word": "of",
+          "startFrame": 344,
+          "endFrame": 355
+        },
+        {
+          "word": "time",
+          "startFrame": 355,
+          "endFrame": 366
+        },
+        {
+          "word": "and",
+          "startFrame": 366,
+          "endFrame": 378
+        },
+        {
+          "word": "capital.",
+          "startFrame": 378,
+          "endFrame": 389
+        }
+      ]
+    },
+    {
+      "id": "cap-4",
+      "startFrame": 389,
+      "endFrame": 486,
+      "startMs": 12962.5,
+      "endMs": 16200.0,
+      "text": "Traditional gatekeepers said it was impossible.",
+      "words": [
+        {
+          "word": "Traditional",
+          "startFrame": 389,
+          "endFrame": 405
+        },
+        {
+          "word": "gatekeepers",
+          "startFrame": 405,
+          "endFrame": 421
+        },
+        {
+          "word": "said",
+          "startFrame": 421,
+          "endFrame": 438
+        },
+        {
+          "word": "it",
+          "startFrame": 438,
+          "endFrame": 454
+        },
+        {
+          "word": "was",
+          "startFrame": 454,
+          "endFrame": 470
+        },
+        {
+          "word": "impossible.",
+          "startFrame": 470,
+          "endFrame": 486
+        }
+      ]
+    },
+    {
+      "id": "cap-5",
+      "startFrame": 486,
+      "endFrame": 581,
+      "startMs": 16200.0,
+      "endMs": 19362.5,
+      "text": "Then came a radical architectural pivot.",
+      "words": [
+        {
+          "word": "Then",
+          "startFrame": 486,
+          "endFrame": 502
+        },
+        {
+          "word": "came",
+          "startFrame": 502,
+          "endFrame": 518
+        },
+        {
+          "word": "a",
+          "startFrame": 518,
+          "endFrame": 534
+        },
+        {
+          "word": "radical",
+          "startFrame": 534,
+          "endFrame": 549
+        },
+        {
+          "word": "architectural",
+          "startFrame": 549,
+          "endFrame": 565
+        },
+        {
+          "word": "pivot.",
+          "startFrame": 565,
+          "endFrame": 581
+        }
+      ]
+    },
+    {
+      "id": "cap-6",
+      "startFrame": 581,
+      "endFrame": 718,
+      "startMs": 19362.5,
+      "endMs": 23950.0,
+      "text": "An elegant solution that cut through decades of legacy complexity.",
+      "words": [
+        {
+          "word": "An",
+          "startFrame": 581,
+          "endFrame": 595
+        },
+        {
+          "word": "elegant",
+          "startFrame": 595,
+          "endFrame": 608
+        },
+        {
+          "word": "solution",
+          "startFrame": 608,
+          "endFrame": 622
+        },
+        {
+          "word": "that",
+          "startFrame": 622,
+          "endFrame": 636
+        },
+        {
+          "word": "cut",
+          "startFrame": 636,
+          "endFrame": 650
+        },
+        {
+          "word": "through",
+          "startFrame": 650,
+          "endFrame": 663
+        },
+        {
+          "word": "decades",
+          "startFrame": 663,
+          "endFrame": 677
+        },
+        {
+          "word": "of",
+          "startFrame": 677,
+          "endFrame": 691
+        },
+        {
+          "word": "legacy",
+          "startFrame": 691,
+          "endFrame": 704
+        },
+        {
+          "word": "complexity.",
+          "startFrame": 704,
+          "endFrame": 718
+        }
+      ]
+    },
+    {
+      "id": "cap-7",
+      "startFrame": 718,
+      "endFrame": 948,
+      "startMs": 23950.0,
+      "endMs": 31587.5,
+      "text": "Today, the company powers the foundation of the modern digital economy, scaling beyond what anyone thought was possible.",
+      "words": [
+        {
+          "word": "Today,",
+          "startFrame": 718,
+          "endFrame": 731
+        },
+        {
+          "word": "the",
+          "startFrame": 731,
+          "endFrame": 744
+        },
+        {
+          "word": "company",
+          "startFrame": 744,
+          "endFrame": 756
+        },
+        {
+          "word": "powers",
+          "startFrame": 756,
+          "endFrame": 769
+        },
+        {
+          "word": "the",
+          "startFrame": 769,
+          "endFrame": 782
+        },
+        {
+          "word": "foundation",
+          "startFrame": 782,
+          "endFrame": 795
+        },
+        {
+          "word": "of",
+          "startFrame": 795,
+          "endFrame": 807
+        },
+        {
+          "word": "the",
+          "startFrame": 807,
+          "endFrame": 820
+        },
+        {
+          "word": "modern",
+          "startFrame": 820,
+          "endFrame": 833
+        },
+        {
+          "word": "digital",
+          "startFrame": 833,
+          "endFrame": 846
+        },
+        {
+          "word": "economy,",
+          "startFrame": 846,
+          "endFrame": 859
+        },
+        {
+          "word": "scaling",
+          "startFrame": 859,
+          "endFrame": 871
+        },
+        {
+          "word": "beyond",
+          "startFrame": 871,
+          "endFrame": 884
+        },
+        {
+          "word": "what",
+          "startFrame": 884,
+          "endFrame": 897
+        },
+        {
+          "word": "anyone",
+          "startFrame": 897,
+          "endFrame": 910
+        },
+        {
+          "word": "thought",
+          "startFrame": 910,
+          "endFrame": 922
+        },
+        {
+          "word": "was",
+          "startFrame": 922,
+          "endFrame": 935
+        },
+        {
+          "word": "possible.",
+          "startFrame": 935,
+          "endFrame": 948
+        }
+      ]
+    }
+  ]
+}

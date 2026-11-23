@@ -1,0 +1,229 @@
+{
+  "audioFile": "/audio/voiceover.mp3",
+  "voice": "en-US-ChristopherNeural",
+  "fps": 30,
+  "durationSeconds": 17.8,
+  "totalFrames": 534,
+  "captions": [
+    {
+      "id": "cap-1",
+      "startFrame": 3,
+      "endFrame": 168,
+      "startMs": 100.0,
+      "endMs": 5612.5,
+      "text": "In 1993, three engineers met at a Denny's diner in Silicon Valley.",
+      "words": [
+        {
+          "word": "In",
+          "startFrame": 3,
+          "endFrame": 17
+        },
+        {
+          "word": "1993,",
+          "startFrame": 17,
+          "endFrame": 30
+        },
+        {
+          "word": "three",
+          "startFrame": 30,
+          "endFrame": 44
+        },
+        {
+          "word": "engineers",
+          "startFrame": 44,
+          "endFrame": 58
+        },
+        {
+          "word": "met",
+          "startFrame": 58,
+          "endFrame": 72
+        },
+        {
+          "word": "at",
+          "startFrame": 72,
+          "endFrame": 86
+        },
+        {
+          "word": "a",
+          "startFrame": 86,
+          "endFrame": 99
+        },
+        {
+          "word": "Denny's",
+          "startFrame": 99,
+          "endFrame": 113
+        },
+        {
+          "word": "diner",
+          "startFrame": 113,
+          "endFrame": 127
+        },
+        {
+          "word": "in",
+          "startFrame": 127,
+          "endFrame": 140
+        },
+        {
+          "word": "Silicon",
+          "startFrame": 140,
+          "endFrame": 154
+        },
+        {
+          "word": "Valley.",
+          "startFrame": 154,
+          "endFrame": 168
+        }
+      ]
+    },
+    {
+      "id": "cap-2",
+      "startFrame": 167,
+      "endFrame": 299,
+      "startMs": 5562.5,
+      "endMs": 9975.0,
+      "text": "They had no money, no offices, and no venture backing.",
+      "words": [
+        {
+          "word": "They",
+          "startFrame": 167,
+          "endFrame": 180
+        },
+        {
+          "word": "had",
+          "startFrame": 180,
+          "endFrame": 193
+        },
+        {
+          "word": "no",
+          "startFrame": 193,
+          "endFrame": 207
+        },
+        {
+          "word": "money,",
+          "startFrame": 207,
+          "endFrame": 220
+        },
+        {
+          "word": "no",
+          "startFrame": 220,
+          "endFrame": 233
+        },
+        {
+          "word": "offices,",
+          "startFrame": 233,
+          "endFrame": 246
+        },
+        {
+          "word": "and",
+          "startFrame": 246,
+          "endFrame": 259
+        },
+        {
+          "word": "no",
+          "startFrame": 259,
+          "endFrame": 273
+        },
+        {
+          "word": "venture",
+          "startFrame": 273,
+          "endFrame": 286
+        },
+        {
+          "word": "backing.",
+          "startFrame": 286,
+          "endFrame": 299
+        }
+      ]
+    },
+    {
+      "id": "cap-3",
+      "startFrame": 299,
+      "endFrame": 519,
+      "startMs": 9975.0,
+      "endMs": 17300.0,
+      "text": "Thirty years later, their single bet on parallel computing would spark the trillion-dollar artificial intelligence revolution.",
+      "words": [
+        {
+          "word": "Thirty",
+          "startFrame": 299,
+          "endFrame": 313
+        },
+        {
+          "word": "years",
+          "startFrame": 313,
+          "endFrame": 326
+        },
+        {
+          "word": "later,",
+          "startFrame": 326,
+          "endFrame": 340
+        },
+        {
+          "word": "their",
+          "startFrame": 340,
+          "endFrame": 354
+        },
+        {
+          "word": "single",
+          "startFrame": 354,
+          "endFrame": 368
+        },
+        {
+          "word": "bet",
+          "startFrame": 368,
+          "endFrame": 382
+        },
+        {
+          "word": "on",
+          "startFrame": 382,
+          "endFrame": 395
+        },
+        {
+          "word": "parallel",
+          "startFrame": 395,
+          "endFrame": 409
+        },
+        {
+          "word": "computing",
+          "startFrame": 409,
+          "endFrame": 423
+        },
+        {
+          "word": "would",
+          "startFrame": 423,
+          "endFrame": 436
+        },
+        {
+          "word": "spark",
+          "startFrame": 436,
+          "endFrame": 450
+        },
+        {
+          "word": "the",
+          "startFrame": 450,
+          "endFrame": 464
+        },
+        {
+          "word": "trillion-dollar",
+          "startFrame": 464,
+          "endFrame": 478
+        },
+        {
+          "word": "artificial",
+          "startFrame": 478,
+          "endFrame": 492
+        },
+        {
+          "word": "intelligence",
+          "startFrame": 492,
+          "endFrame": 505
+        },
+        {
+          "word": "revolution.",
+          "startFrame": 505,
+          "endFrame": 519
+        }
+      ]
+    }
+  ]
+}

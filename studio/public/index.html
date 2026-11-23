@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google Flow & Nano Banana 2 — AI Video Studio</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="studio-app">
+    <!-- Studio Header -->
+    <header class="studio-header">
+      <div class="brand">
+        <div class="brand-badge">GOOGLE ECOSYSTEM // PIPELINE</div>
+        <h1>AI PRODUCTION STUDIO</h1>
+        <p class="subtitle">Multi-Agent Film Engine: Nano Banana 2 &bull; Google Flow / Veo &bull; Remotion Master Cut</p>
+      </div>
+      <div class="header-actions">
+        <button id="apiKeySettingsBtn" class="btn btn-outline" style="border-color: var(--accent-cyan); color: var(--accent-cyan);">
+          <span class="icon">🔑</span> <span id="apiKeyBtnText">Connect Google API</span>
+        </button>
+        <button id="saveProjectBtn" class="btn btn-outline">
+          <span class="icon">💾</span> Save Project
+        </button>
+        <button id="quickAssembleBtn" class="btn btn-primary">
+          <span class="icon">⚡</span> Quick Master Cut
+        </button>
+      </div>
+    </header>
+
+    <!-- Studio Navigation Tabs -->
+    <nav class="studio-nav">
+      <button class="nav-tab active" data-tab="story">
+        <span class="tab-num">01</span>
+        <span class="tab-label">Story Brain</span>
+      </button>
+      <button class="nav-tab" data-tab="characters">
+        <span class="tab-num">02</span>
+        <span class="tab-label">Character Dept</span>
+      </button>
+      <button class="nav-tab" data-tab="scenes">
+        <span class="tab-num">03</span>
+        <span class="tab-label">Scene Dept</span>
+      </button>
+      <button class="nav-tab" data-tab="director">
+        <span class="tab-num">04</span>
+        <span class="tab-label">Director's Desk</span>
+      </button>
+      <button class="nav-tab" data-tab="footage">
+        <span class="tab-num">05</span>
+        <span class="tab-label">Video Bits & Intake</span>
+      </button>
+      <button class="nav-tab" data-tab="assembly">
+        <span class="tab-num">06</span>
+        <span class="tab-label">Master Assembly</span>
+      </button>
+    </nav>
+
+    <!-- Main Studio Workspace -->
+    <main class="studio-main">
+
+      <!-- ================= 01. STORY BRAIN ================= -->
+      <section id="tab-story" class="tab-content active">
+        <div class="section-header">
+          <div>
+            <h2>01 // Story Brain (Narrative Architecture)</h2>
+            <p>Input your story premise, character concepts, and vision. The Showrunner Agent will deconstruct it into chronological narrative beats.</p>
+          </div>
+          <button id="analyzeStoryBtn" class="btn btn-primary">
+            <span>🧠</span> Deconstruct Story Into Beats
+          </button>
+        </div>
+
+        <div class="grid-2col">
+          <!-- Story Controls -->
+          <div class="panel">
+            <h3 class="panel-title">Project Vision & Parameters</h3>
+            <div class="form-group">
+              <label>Story Title</label>
+              <input type="text" id="storyTitle" placeholder="e.g. The Silent Architect">
+            </div>
+            <div class="form-group">
+              <label>Story Idea / Script / Premise</label>
+              <textarea id="storySynopsis" rows="7" placeholder="Type your story, plot twists, character actions, and core message here..."></textarea>
+            </div>
+            <div class="grid-2col-nested">
+              <div class="form-group">
+                <label>Genre / Visual Aesthetic</label>
+                <select id="storyGenre">
+                  <option value="Cinematic Narrative Brand Film" selected>🌧️ Cinematic Narrative Film (Movie-Style Commercial / Craft vs. Storm)</option>
+                  <option value="Nike Sports Commercial">⚡ High-Intensity Athletic Anthem</option>
+                  <option value="Cinematic Documentary">🎬 Cinematic Documentary (35mm Film)</option>
+                  <option value="Sci-Fi Thriller">🌌 Sci-Fi Cyberpunk Thriller</option>
+                  <option value="Historical Drama">🏛️ Historical Drama / Noir</option>
+                  <option value="Founder Story">💼 Founder Story / Tech Explainer</option>
+                  <option value="Commercial">✨ High-End Luxury Commercial</option>
+                  <option value="Automotive Commercial">🏎️ High-Speed Automotive Ad (Drift / Track)</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label>Aspect Ratio</label>
+                <select id="storyAspect">
+                  <option value="16:9">16:9 Landscape (Cinema / YouTube)</option>
+                  <option value="9:16">9:16 Vertical (Reels / TikTok / Shorts)</option>
+                </select>
+              </div>
+            </div>
+          </div>
+
+          <!-- Narrative Beats Output -->
+          <div class="panel">
+            <div class="panel-header-inline">
+              <h3 class="panel-title">Deconstructed Scene Beats</h3>
+              <span id="beatsCountBadge" class="badge">3 Beats</span>
+            </div>
+            <div id="beatsContainer" class="beats-list">
+              <!-- Beats injected via JavaScript -->
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ================= 02. CHARACTER DEPARTMENT ================= -->
+      <section id="tab-characters" class="tab-content">
+        <div class="section-header">
+          <div>
+            <h2>02 // Character Department (Turnaround & Consistency)</h2>
+            <p>Upload a reference photo or video. Nano Banana 2 generates 4-view model sheets and locks facial identity and wardrobe across all camera cuts.</p>
+          </div>
+          <button id="addCharacterBtn" class="btn btn-outline">+ New Character</button>
+        </div>
+
+        <div class="grid-2col">
+          <!-- Character Input Form -->
+          <div class="panel">
+            <h3 class="panel-title">Character Dossier & Identity</h3>
+            <div class="form-group">
+              <label>Character Name</label>
+              <input type="text" id="charName" placeholder="e.g. Dr. Elena Voss">
+            </div>
+            <div class="form-group">
+              <label>Role & Archetype</label>
+              <input type="text" id="charRole" placeholder="e.g. Visionary Acoustic Architect">
+            </div>
+            <div class="form-group">
+              <label>Facial Features & Physical Traits</label>
+              <textarea id="charTraits" rows="2" placeholder="e.g. Sharp intense gaze, dark hair tied back, subtle cheekbone scar"></textarea>
+            </div>
+            <div class="form-group">
+              <label>Costume & Wardrobe (Consistency Lock)</label>
+              <textarea id="charClothing" rows="2" placeholder="e.g. Tailored dark charcoal wool trench coat with brass geometric compass pin"></textarea>
+            </div>
+
+            <!-- Upload Zone: Image or Video -->
+            <div class="form-group">
+              <label>Upload Reference Photo OR Video Clip</label>
+              <div id="charDropzone" class="dropzone">
+                <span class="dropzone-icon">📁</span>
+                <p>Drag & drop reference image or video here</p>
+                <span class="dropzone-hint">(If you upload a video, frames will be extracted automatically)</span>
+                <input type="file" id="charFileInput" accept="image/*,video/*" hidden>
+              </div>
+              <!-- Extracted Frames Container -->
+              <div id="charFramesContainer" class="extracted-frames-grid" style="display: none;"></div>
+            </div>
+
+            <button id="generateCharSheetBtn" class="btn btn-primary btn-block">
+              <span>🎨</span> Generate Nano Banana 2 Character Sheet
+            </button>
+          </div>
+
+          <!-- Character Sheet Preview -->
+          <div class="panel">
+            <div class="panel-header-inline">
+              <h3 class="panel-title">Character Model Sheet (1080p Master)</h3>
+              <span class="badge badge-success">IDENTITY LOCKED</span>
+            </div>
+            <div class="sheet-preview-container">
+              <img id="charSheetImg" src="/assets/characters/frances_test_sheet.png" alt="Character Sheet">
+            </div>
+            <div class="prompt-inspector">
+              <div class="prompt-inspector-header">
+                <span>NANO BANANA 2 CONDITIONING PROMPT</span>
+                <button class="btn btn-xs" onclick="navigator.clipboard.writeText(document.getElementById('charPromptText').innerText)">Copy</button>
+              </div>
+              <p id="charPromptText" class="code-block"></p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ================= 03. SCENE DEPARTMENT ================= -->
+      <section id="tab-scenes" class="tab-content">
+        <div class="section-header">
+          <div>
+            <h2>03 // Scene & Environment Department (World-Building)</h2>
+            <p>Upload location references or sketches. Generates architectural elevation, lighting schemes, and spatial continuity sheets.</p>
+          </div>
+          <button id="addSceneBtn" class="btn btn-outline">+ New Environment</button>
+        </div>
+
+        <div class="grid-2col">
+          <!-- Scene Form -->
+          <div class="panel">
+            <h3 class="panel-title">Environment & Lighting Blueprint</h3>
+            <div class="form-group">
+              <label>Location Name</label>
+              <input type="text" id="sceneLocation" placeholder="e.g. Neo-Manhattan Archives">
+            </div>
+            <div class="form-group">
+              <label>Time of Day & Sun Position</label>
+              <input type="text" id="sceneTime" placeholder="e.g. Midnight Amber & Moonlight Cyan">
+            </div>
+            <div class="form-group">
+              <label>Atmosphere, Weather & Volumetrics</label>
+              <textarea id="sceneAtmosphere" rows="2" placeholder="e.g. Dense volumetric dust motes, dramatic warm lamp spotlights, light rain against glass"></textarea>
+            </div>
+            <div class="form-group">
+              <label>Architectural Style & Materials</label>
+              <textarea id="sceneArchitecture" rows="2" placeholder="e.g. Art Deco Retro-Futurism, towering brass filing cabinets, dark mahogany desks"></textarea>
+            </div>
+
+            <!-- Upload Zone -->
+            <div class="form-group">
+              <label>Upload Reference Photo OR Video Clip</label>
+              <div id="sceneDropzone" class="dropzone">
+                <span class="dropzone-icon">🌄</span>
+                <p>Drag & drop environment reference here</p>
+                <span class="dropzone-hint">(Supports image files or video clips with auto-frame extraction)</span>
+                <input type="file" id="sceneFileInput" accept="image/*,video/*" hidden>
+              </div>
+              <div id="sceneFramesContainer" class="extracted-frames-grid" style="display: none;"></div>
+            </div>
+
+            <button id="generateSceneSheetBtn" class="btn btn-primary btn-block">
+              <span>🎨</span> Generate Nano Banana 2 Scene Sheet
+            </button>
+          </div>
+
+          <!-- Scene Sheet Preview -->
+          <div class="panel">
+            <div class="panel-header-inline">
+              <h3 class="panel-title">Environment Production Sheet</h3>
+              <span class="badge badge-cyan">LIGHTING LOCKED</span>
+            </div>
+            <div class="sheet-preview-container">
+              <img id="sceneSheetImg" src="/assets/scenes/madison_ave_test_sheet.png" alt="Scene Sheet">
+            </div>
+            <div class="prompt-inspector">
+              <div class="prompt-inspector-header">
+                <span>NANO BANANA 2 ENVIRONMENT PROMPT</span>
+                <button class="btn btn-xs" onclick="navigator.clipboard.writeText(document.getElementById('scenePromptText').innerText)">Copy</button>
+              </div>
+              <p id="scenePromptText" class="code-block"></p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ================= 04. DIRECTOR'S DESK ================= -->
+      <section id="tab-director" class="tab-content">
+        <div class="section-header">
+          <div>
+            <h2>04 // Director's Desk (Cinematography & Google Flow Prompts)</h2>
+            <p>Fuses Story Beats + Character Consistency Sheets + Scene Sheets into a shot list with ready-to-run Google Flow / Veo prompts.</p>
+          </div>
+          <div class="action-group">
+            <button id="exportFlowPromptsBtn" class="btn btn-outline">📥 Export Flow Queue (JSON)</button>
+            <button id="generateShotListBtn" class="btn btn-primary">🎬 Generate Shot List</button>
+          </div>
+        </div>
+
+        <div id="shotsContainer" class="shots-grid">
+          <!-- Shot Cards dynamically injected -->
+        </div>
+      </section>
+
+      <!-- ================= 05. VIDEO BITS & INTAKE ================= -->
+      <section id="tab-footage" class="tab-content">
+        <div class="section-header">
+          <div>
+            <h2>05 // Video Bits & Individual Downloads</h2>
+            <p>Preview and download individual shot video clips (.mp4) to take to your editor, or upload your Google Flow video clips here.</p>
+          </div>
+          <button id="downloadAllBitsBtn" class="btn btn-outline">📦 Download All Bits</button>
+        </div>
+
+        <div id="footageGrid" class="footage-grid">
+          <!-- Video bit cards dynamically injected -->
+        </div>
+      </section>
+
+      <!-- ================= 06. MASTER ASSEMBLY ================= -->
+      <section id="tab-assembly" class="tab-content">
+        <div class="section-header">
+          <div>
+            <h2>06 // Remotion Master Assembly Suite</h2>
+            <p>Automated assembly: syncs neural voiceover, adds background music with auto-ducking, sound effects, transitions, and speed ramps.</p>
+          </div>
+          <div class="action-group">
+            <button id="assembleTimelineBtn" class="btn btn-outline">🎙️ Assemble Audio & Timeline</button>
+            <button id="renderMasterBtn" class="btn btn-primary">🚀 Render Final Master Cut (MP4)</button>
+          </div>
+        </div>
+
+        <div class="grid-2col">
+          <!-- Assembly Settings -->
+          <div class="panel">
+            <h3 class="panel-title">Post-Production Controls</h3>
+            
+            <div class="form-group">
+              <label>Neural Voiceover Narrator</label>
+              <select id="voicePresetSelect">
+                <option value="documentary-deep">Christopher — Deep Authoritative Documentary (Vox / Frontline)</option>
+                <option value="documentary-clear">Eric — Crisp Modern Narrator</option>
+                <option value="documentary-warm">Jenny — Warm Engaging Narrator</option>
+                <option value="british-narrator">Ryan — BBC-Style British Narrator</option>
+                <option value="tech-news">Guy — Dynamic Tech News</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label>Cinematic Background Score</label>
+              <select id="musicSelect">
+                <option value="/audio/music/documentary-pulse.wav">Documentary Pulse (Intense Electronic & Strings)</option>
+                <option value="/audio/music/upbeat-tech.mp3">Upbeat Tech Minimalist</option>
+              </select>
+            </div>
+
+            <div class="grid-2col-nested">
+              <div class="form-group">
+                <label>Audio Ducking</label>
+                <select id="duckingSelect">
+                  <option value="aggressive">Aggressive (Ducks music to 8% under voice)</option>
+                  <option value="moderate">Moderate (Ducks music to 15%)</option>
+                  <option value="none">No Ducking</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label>Pacing & Speed Ramps</label>
+                <select id="speedRampSelect">
+                  <option value="cinematic">Cinematic (Slow-mo hero holds, fast transitions)</option>
+                  <option value="dynamic">High Energy (Fast-mo pacing with whip pans)</option>
+                  <option value="documentary">Standard 24/30 FPS Documentary</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="audio-preview-box">
+              <label>Voiceover Audio Preview</label>
+              <audio id="voiceAudioPlayer" controls style="width: 100%; margin-top: 8px;">
+                <source src="/audio/studio-active-voiceover.mp3" type="audio/mp3">
+                Your browser does not support audio playback.
+              </audio>
+            </div>
+          </div>
+
+          <!-- Master Video Monitor -->
+          <div class="panel">
+            <div class="panel-header-inline">
+              <h3 class="panel-title">Master Video Monitor</h3>
+              <span id="renderStatusBadge" class="badge">Awaiting Render</span>
+            </div>
+            
+            <div class="monitor-container">
+              <video id="masterVideoPlayer" controls poster="/assets/scenes/madison_ave_test_sheet.png">
+                <source src="/out/ai-studio-master.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>
+            </div>
+
+            <div id="renderSuccessBox" class="render-info-box" style="display: none;">
+              <p>🎉 Master Video Rendered Successfully!</p>
+              <a id="downloadMasterBtn" href="/out/ai-studio-master.mp4" download="ai-studio-master.mp4" class="btn btn-primary btn-block">
+                ⬇️ Download Master Cut (.mp4)
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- AI Engine & Providers Settings Modal -->
+    <div id="apiKeyModal" class="modal-backdrop" style="display: none;">
+      <div class="modal-card" style="max-width: 560px;">
+        <div class="modal-header">
+          <h3>⚡ Production AI Engines & Cloud Compute</h3>
+          <button class="btn btn-xs btn-outline" onclick="closeApiKeyModal()">✕</button>
+        </div>
+        
+        <!-- Live Provider Status Grid -->
+        <div style="background: #0d1017; border: 1px solid var(--border-color); border-radius: var(--radius-sm); padding: 12px; margin-bottom: 16px;">
+          <div style="font-size: 11px; font-family: var(--font-display); color: var(--text-sub); text-transform: uppercase; margin-bottom: 8px;">ACTIVE CLOUD PROVIDERS</div>
+          <div id="providersStatusList" style="display: flex; flex-direction: column; gap: 8px; font-size: 12px;">
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+              <span>🤖 Google Gemini / Nano Banana 2:</span>
+              <span class="badge badge-success" id="provStatusGoogle">CONNECTED</span>
+            </div>
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+              <span>⚡ Fal.ai (InstantID + Kling 1.5 Video):</span>
+              <span class="badge" id="provStatusFal" style="background: rgba(148, 163, 184, 0.2); color: #94a3b8;">NOT CONFIGURED</span>
+            </div>
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+              <span>🔮 Replicate (Flux + Minimax Video):</span>
+              <span class="badge" id="provStatusReplicate" style="background: rgba(148, 163, 184, 0.2); color: #94a3b8;">NOT CONFIGURED</span>
+            </div>
+          </div>
+        </div>
+
+        <p style="font-size: 12px; color: var(--text-muted); margin-bottom: 14px; line-height: 1.5;">
+          End-users do not need an account. Your keys are saved directly into the studio's backend <code style="color: var(--accent-orange);">.env</code>.
+        </p>
+
+        <div class="form-group">
+          <label>Select Provider to Update / Configure</label>
+          <select id="providerSelect" class="form-control" style="margin-bottom: 10px;">
+            <option value="gemini">Google Gemini / Nano Banana 2 Key</option>
+            <option value="fal">Fal.ai API Key (Flux InstantID & Kling 1.5 Video)</option>
+            <option value="replicate">Replicate API Token (Flux & Minimax Video)</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label id="apiKeyInputLabel">API Key / Token</label>
+          <input type="password" id="apiKeyInput" class="form-control" placeholder="Enter key...">
+          <span id="apiKeyHelpText" style="font-size: 11px; color: var(--text-sub); margin-top: 4px; display: block;">
+            Active key: <code id="activeKeyDisplay">Loading...</code>
+          </span>
+        </div>
+
+        <div style="display: flex; justify-content: flex-end; gap: 10px; margin-top: 20px;">
+          <button class="btn btn-outline" onclick="closeApiKeyModal()">Cancel</button>
+          <button id="saveApiKeyBtn" class="btn btn-primary">Save & Activate Provider</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Global Toast Notification -->
+    <div id="toast" class="toast"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

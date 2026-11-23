@@ -1,0 +1,644 @@
+{
+  "audioFile": "/audio/studio-active-voiceover.mp3",
+  "voice": "en-US-ChristopherNeural",
+  "fps": 30,
+  "durationSeconds": 48.17,
+  "totalFrames": 1445,
+  "captions": [
+    {
+      "id": "cap-1",
+      "startFrame": 3,
+      "endFrame": 201,
+      "startMs": 100.0,
+      "endMs": 6687.5,
+      "text": "When a career-defining promotion lands on your desk on Friday... and you have to resume in Lagos on Monday.",
+      "words": [
+        {
+          "word": "When",
+          "startFrame": 3,
+          "endFrame": 13
+        },
+        {
+          "word": "a",
+          "startFrame": 13,
+          "endFrame": 24
+        },
+        {
+          "word": "career-defining",
+          "startFrame": 24,
+          "endFrame": 34
+        },
+        {
+          "word": "promotion",
+          "startFrame": 34,
+          "endFrame": 45
+        },
+        {
+          "word": "lands",
+          "startFrame": 45,
+          "endFrame": 55
+        },
+        {
+          "word": "on",
+          "startFrame": 55,
+          "endFrame": 66
+        },
+        {
+          "word": "your",
+          "startFrame": 66,
+          "endFrame": 76
+        },
+        {
+          "word": "desk",
+          "startFrame": 76,
+          "endFrame": 86
+        },
+        {
+          "word": "on",
+          "startFrame": 86,
+          "endFrame": 97
+        },
+        {
+          "word": "Friday...",
+          "startFrame": 97,
+          "endFrame": 107
+        },
+        {
+          "word": "and",
+          "startFrame": 107,
+          "endFrame": 118
+        },
+        {
+          "word": "you",
+          "startFrame": 118,
+          "endFrame": 128
+        },
+        {
+          "word": "have",
+          "startFrame": 128,
+          "endFrame": 138
+        },
+        {
+          "word": "to",
+          "startFrame": 138,
+          "endFrame": 149
+        },
+        {
+          "word": "resume",
+          "startFrame": 149,
+          "endFrame": 159
+        },
+        {
+          "word": "in",
+          "startFrame": 159,
+          "endFrame": 170
+        },
+        {
+          "word": "Lagos",
+          "startFrame": 170,
+          "endFrame": 180
+        },
+        {
+          "word": "on",
+          "startFrame": 180,
+          "endFrame": 191
+        },
+        {
+          "word": "Monday.",
+          "startFrame": 191,
+          "endFrame": 201
+        }
+      ]
+    },
+    {
+      "id": "cap-2",
+      "startFrame": 199,
+      "endFrame": 294,
+      "startMs": 6637.5,
+      "endMs": 9787.5,
+      "text": "Sixteen hours searching for an apartment.",
+      "words": [
+        {
+          "word": "Sixteen",
+          "startFrame": 199,
+          "endFrame": 215
+        },
+        {
+          "word": "hours",
+          "startFrame": 215,
+          "endFrame": 231
+        },
+        {
+          "word": "searching",
+          "startFrame": 231,
+          "endFrame": 246
+        },
+        {
+          "word": "for",
+          "startFrame": 246,
+          "endFrame": 262
+        },
+        {
+          "word": "an",
+          "startFrame": 262,
+          "endFrame": 278
+        },
+        {
+          "word": "apartment.",
+          "startFrame": 278,
+          "endFrame": 294
+        }
+      ]
+    },
+    {
+      "id": "cap-3",
+      "startFrame": 294,
+      "endFrame": 356,
+      "startMs": 9787.5,
+      "endMs": 11850.0,
+      "text": "Dead-end listings.",
+      "words": [
+        {
+          "word": "Dead-end",
+          "startFrame": 294,
+          "endFrame": 325
+        },
+        {
+          "word": "listings.",
+          "startFrame": 325,
+          "endFrame": 356
+        }
+      ]
+    },
+    {
+      "id": "cap-4",
+      "startFrame": 356,
+      "endFrame": 416,
+      "startMs": 11850.0,
+      "endMs": 13875.0,
+      "text": "Shady agents.",
+      "words": [
+        {
+          "word": "Shady",
+          "startFrame": 356,
+          "endFrame": 386
+        },
+        {
+          "word": "agents.",
+          "startFrame": 386,
+          "endFrame": 416
+        }
+      ]
+    },
+    {
+      "id": "cap-5",
+      "startFrame": 416,
+      "endFrame": 481,
+      "startMs": 13875.0,
+      "endMs": 16025.0,
+      "text": "It shouldn't be this hard.",
+      "words": [
+        {
+          "word": "It",
+          "startFrame": 416,
+          "endFrame": 429
+        },
+        {
+          "word": "shouldn't",
+          "startFrame": 429,
+          "endFrame": 442
+        },
+        {
+          "word": "be",
+          "startFrame": 442,
+          "endFrame": 455
+        },
+        {
+          "word": "this",
+          "startFrame": 455,
+          "endFrame": 468
+        },
+        {
+          "word": "hard.",
+          "startFrame": 468,
+          "endFrame": 481
+        }
+      ]
+    },
+    {
+      "id": "cap-6",
+      "startFrame": 481,
+      "endFrame": 581,
+      "startMs": 16025.0,
+      "endMs": 19362.5,
+      "text": "In Lagos, you don't fight the old system.",
+      "words": [
+        {
+          "word": "In",
+          "startFrame": 481,
+          "endFrame": 494
+        },
+        {
+          "word": "Lagos,",
+          "startFrame": 494,
+          "endFrame": 506
+        },
+        {
+          "word": "you",
+          "startFrame": 506,
+          "endFrame": 518
+        },
+        {
+          "word": "don't",
+          "startFrame": 518,
+          "endFrame": 531
+        },
+        {
+          "word": "fight",
+          "startFrame": 531,
+          "endFrame": 544
+        },
+        {
+          "word": "the",
+          "startFrame": 544,
+          "endFrame": 556
+        },
+        {
+          "word": "old",
+          "startFrame": 556,
+          "endFrame": 568
+        },
+        {
+          "word": "system.",
+          "startFrame": 568,
+          "endFrame": 581
+        }
+      ]
+    },
+    {
+      "id": "cap-7",
+      "startFrame": 581,
+      "endFrame": 650,
+      "startMs": 19362.5,
+      "endMs": 21662.5,
+      "text": "You discover the shortcut.",
+      "words": [
+        {
+          "word": "You",
+          "startFrame": 581,
+          "endFrame": 598
+        },
+        {
+          "word": "discover",
+          "startFrame": 598,
+          "endFrame": 616
+        },
+        {
+          "word": "the",
+          "startFrame": 616,
+          "endFrame": 633
+        },
+        {
+          "word": "shortcut.",
+          "startFrame": 633,
+          "endFrame": 650
+        }
+      ]
+    },
+    {
+      "id": "cap-8",
+      "startFrame": 650,
+      "endFrame": 701,
+      "startMs": 21662.5,
+      "endMs": 23375.0,
+      "text": "Meet Chatty.",
+      "words": [
+        {
+          "word": "Meet",
+          "startFrame": 650,
+          "endFrame": 676
+        },
+        {
+          "word": "Chatty.",
+          "startFrame": 676,
+          "endFrame": 701
+        }
+      ]
+    },
+    {
+      "id": "cap-9",
+      "startFrame": 701,
+      "endFrame": 824,
+      "startMs": 23375.0,
+      "endMs": 27475.0,
+      "text": "The AI rental assistant living right inside your WhatsApp.",
+      "words": [
+        {
+          "word": "The",
+          "startFrame": 701,
+          "endFrame": 715
+        },
+        {
+          "word": "AI",
+          "startFrame": 715,
+          "endFrame": 728
+        },
+        {
+          "word": "rental",
+          "startFrame": 728,
+          "endFrame": 742
+        },
+        {
+          "word": "assistant",
+          "startFrame": 742,
+          "endFrame": 756
+        },
+        {
+          "word": "living",
+          "startFrame": 756,
+          "endFrame": 769
+        },
+        {
+          "word": "right",
+          "startFrame": 769,
+          "endFrame": 783
+        },
+        {
+          "word": "inside",
+          "startFrame": 783,
+          "endFrame": 797
+        },
+        {
+          "word": "your",
+          "startFrame": 797,
+          "endFrame": 810
+        },
+        {
+          "word": "WhatsApp.",
+          "startFrame": 810,
+          "endFrame": 824
+        }
+      ]
+    },
+    {
+      "id": "cap-10",
+      "startFrame": 824,
+      "endFrame": 902,
+      "startMs": 27475.0,
+      "endMs": 30050.0,
+      "text": "Instant verified listings.",
+      "words": [
+        {
+          "word": "Instant",
+          "startFrame": 824,
+          "endFrame": 850
+        },
+        {
+          "word": "verified",
+          "startFrame": 850,
+          "endFrame": 876
+        },
+        {
+          "word": "listings.",
+          "startFrame": 876,
+          "endFrame": 902
+        }
+      ]
+    },
+    {
+      "id": "cap-11",
+      "startFrame": 902,
+      "endFrame": 959,
+      "startMs": 30050.0,
+      "endMs": 31962.5,
+      "text": "Zero middlemen.",
+      "words": [
+        {
+          "word": "Zero",
+          "startFrame": 902,
+          "endFrame": 930
+        },
+        {
+          "word": "middlemen.",
+          "startFrame": 930,
+          "endFrame": 959
+        }
+      ]
+    },
+    {
+      "id": "cap-12",
+      "startFrame": 959,
+      "endFrame": 1070,
+      "startMs": 31962.5,
+      "endMs": 35675.0,
+      "text": "Live virtual walkthroughs in under sixty seconds.",
+      "words": [
+        {
+          "word": "Live",
+          "startFrame": 959,
+          "endFrame": 975
+        },
+        {
+          "word": "virtual",
+          "startFrame": 975,
+          "endFrame": 991
+        },
+        {
+          "word": "walkthroughs",
+          "startFrame": 991,
+          "endFrame": 1007
+        },
+        {
+          "word": "in",
+          "startFrame": 1007,
+          "endFrame": 1022
+        },
+        {
+          "word": "under",
+          "startFrame": 1022,
+          "endFrame": 1038
+        },
+        {
+          "word": "sixty",
+          "startFrame": 1038,
+          "endFrame": 1054
+        },
+        {
+          "word": "seconds.",
+          "startFrame": 1054,
+          "endFrame": 1070
+        }
+      ]
+    },
+    {
+      "id": "cap-13",
+      "startFrame": 1070,
+      "endFrame": 1191,
+      "startMs": 35675.0,
+      "endMs": 39687.5,
+      "text": "Packed, ready, and moving in on your own terms.",
+      "words": [
+        {
+          "word": "Packed,",
+          "startFrame": 1070,
+          "endFrame": 1083
+        },
+        {
+          "word": "ready,",
+          "startFrame": 1083,
+          "endFrame": 1097
+        },
+        {
+          "word": "and",
+          "startFrame": 1097,
+          "endFrame": 1110
+        },
+        {
+          "word": "moving",
+          "startFrame": 1110,
+          "endFrame": 1124
+        },
+        {
+          "word": "in",
+          "startFrame": 1124,
+          "endFrame": 1137
+        },
+        {
+          "word": "on",
+          "startFrame": 1137,
+          "endFrame": 1151
+        },
+        {
+          "word": "your",
+          "startFrame": 1151,
+          "endFrame": 1164
+        },
+        {
+          "word": "own",
+          "startFrame": 1164,
+          "endFrame": 1178
+        },
+        {
+          "word": "terms.",
+          "startFrame": 1178,
+          "endFrame": 1191
+        }
+      ]
+    },
+    {
+      "id": "cap-14",
+      "startFrame": 1191,
+      "endFrame": 1283,
+      "startMs": 39687.5,
+      "endMs": 42762.5,
+      "text": "Finding your next home shouldn't take weeks.",
+      "words": [
+        {
+          "word": "Finding",
+          "startFrame": 1191,
+          "endFrame": 1204
+        },
+        {
+          "word": "your",
+          "startFrame": 1204,
+          "endFrame": 1217
+        },
+        {
+          "word": "next",
+          "startFrame": 1217,
+          "endFrame": 1230
+        },
+        {
+          "word": "home",
+          "startFrame": 1230,
+          "endFrame": 1244
+        },
+        {
+          "word": "shouldn't",
+          "startFrame": 1244,
+          "endFrame": 1257
+        },
+        {
+          "word": "take",
+          "startFrame": 1257,
+          "endFrame": 1270
+        },
+        {
+          "word": "weeks.",
+          "startFrame": 1270,
+          "endFrame": 1283
+        }
+      ]
+    },
+    {
+      "id": "cap-15",
+      "startFrame": 1283,
+      "endFrame": 1342,
+      "startMs": 42762.5,
+      "endMs": 44737.5,
+      "text": "It takes seconds.",
+      "words": [
+        {
+          "word": "It",
+          "startFrame": 1283,
+          "endFrame": 1303
+        },
+        {
+          "word": "takes",
+          "startFrame": 1303,
+          "endFrame": 1322
+        },
+        {
+          "word": "seconds.",
+          "startFrame": 1322,
+          "endFrame": 1342
+        }
+      ]
+    },
+    {
+      "id": "cap-16",
+      "startFrame": 1342,
+      "endFrame": 1430,
+      "startMs": 44737.5,
+      "endMs": 47662.5,
+      "text": "Chat Chatty on WhatsApp and move in.",
+      "words": [
+        {
+          "word": "Chat",
+          "startFrame": 1342,
+          "endFrame": 1355
+        },
+        {
+          "word": "Chatty",
+          "startFrame": 1355,
+          "endFrame": 1367
+        },
+        {
+          "word": "on",
+          "startFrame": 1367,
+          "endFrame": 1380
+        },
+        {
+          "word": "WhatsApp",
+          "startFrame": 1380,
+          "endFrame": 1392
+        },
+        {
+          "word": "and",
+          "startFrame": 1392,
+          "endFrame": 1405
+        },
+        {
+          "word": "move",
+          "startFrame": 1405,
+          "endFrame": 1417
+        },
+        {
+          "word": "in.",
+          "startFrame": 1417,
+          "endFrame": 1430
+        }
+      ]
+    }
+  ]
+}

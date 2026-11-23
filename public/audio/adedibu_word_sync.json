@@ -1,0 +1,1542 @@
+{
+  "audio": "/audio/adedibu_fast_voice.mp3",
+  "totalFrames": 2022,
+  "totalSeconds": 67.4,
+  "wpm": 195.0,
+  "wordCount": 219,
+  "words": [
+    {
+      "word": "In",
+      "startSec": 0.092,
+      "endSec": 0.219,
+      "startFrame": 3,
+      "endFrame": 7
+    },
+    {
+      "word": "the",
+      "startSec": 0.23,
+      "endSec": 0.304,
+      "startFrame": 7,
+      "endFrame": 9
+    },
+    {
+      "word": "early",
+      "startSec": 0.315,
+      "endSec": 0.58,
+      "startFrame": 9,
+      "endFrame": 17
+    },
+    {
+      "word": "2000s",
+      "startSec": 0.59,
+      "endSec": 1.289,
+      "startFrame": 18,
+      "endFrame": 39
+    },
+    {
+      "word": "men",
+      "startSec": 1.417,
+      "endSec": 1.597,
+      "startFrame": 42,
+      "endFrame": 48
+    },
+    {
+      "word": "who",
+      "startSec": 1.607,
+      "endSec": 1.755,
+      "startFrame": 48,
+      "endFrame": 53
+    },
+    {
+      "word": "owned",
+      "startSec": 1.766,
+      "endSec": 1.999,
+      "startFrame": 53,
+      "endFrame": 60
+    },
+    {
+      "word": "private",
+      "startSec": 2.01,
+      "endSec": 2.349,
+      "startFrame": 60,
+      "endFrame": 70
+    },
+    {
+      "word": "jets",
+      "startSec": 2.359,
+      "endSec": 2.645,
+      "startFrame": 71,
+      "endFrame": 79
+    },
+    {
+      "word": "and",
+      "startSec": 2.656,
+      "endSec": 2.741,
+      "startFrame": 80,
+      "endFrame": 82
+    },
+    {
+      "word": "commanded",
+      "startSec": 2.751,
+      "endSec": 3.154,
+      "startFrame": 83,
+      "endFrame": 95
+    },
+    {
+      "word": "thousands",
+      "startSec": 3.164,
+      "endSec": 3.556,
+      "startFrame": 95,
+      "endFrame": 107
+    },
+    {
+      "word": "of",
+      "startSec": 3.567,
+      "endSec": 3.63,
+      "startFrame": 107,
+      "endFrame": 109
+    },
+    {
+      "word": "police",
+      "startSec": 3.641,
+      "endSec": 3.948,
+      "startFrame": 109,
+      "endFrame": 118
+    },
+    {
+      "word": "officers",
+      "startSec": 3.959,
+      "endSec": 4.393,
+      "startFrame": 119,
+      "endFrame": 132
+    },
+    {
+      "word": "would",
+      "startSec": 4.404,
+      "endSec": 4.52,
+      "startFrame": 132,
+      "endFrame": 136
+    },
+    {
+      "word": "fly",
+      "startSec": 4.531,
+      "endSec": 4.775,
+      "startFrame": 136,
+      "endFrame": 143
+    },
+    {
+      "word": "to",
+      "startSec": 4.785,
+      "endSec": 4.902,
+      "startFrame": 144,
+      "endFrame": 147
+    },
+    {
+      "word": "Ibadan",
+      "startSec": 4.912,
+      "endSec": 5.368,
+      "startFrame": 147,
+      "endFrame": 161
+    },
+    {
+      "word": "just",
+      "startSec": 5.643,
+      "endSec": 5.823,
+      "startFrame": 169,
+      "endFrame": 175
+    },
+    {
+      "word": "to",
+      "startSec": 5.834,
+      "endSec": 5.887,
+      "startFrame": 175,
+      "endFrame": 177
+    },
+    {
+      "word": "eat",
+      "startSec": 5.897,
+      "endSec": 6.078,
+      "startFrame": 177,
+      "endFrame": 182
+    },
+    {
+      "word": "amala",
+      "startSec": 6.088,
+      "endSec": 6.385,
+      "startFrame": 183,
+      "endFrame": 192
+    },
+    {
+      "word": "in",
+      "startSec": 6.395,
+      "endSec": 6.501,
+      "startFrame": 192,
+      "endFrame": 195
+    },
+    {
+      "word": "an",
+      "startSec": 6.512,
+      "endSec": 6.597,
+      "startFrame": 195,
+      "endFrame": 198
+    },
+    {
+      "word": "ordinary",
+      "startSec": 6.607,
+      "endSec": 7.01,
+      "startFrame": 198,
+      "endFrame": 210
+    },
+    {
+      "word": "house",
+      "startSec": 7.02,
+      "endSec": 7.476,
+      "startFrame": 211,
+      "endFrame": 224
+    },
+    {
+      "word": "And",
+      "startSec": 8.199,
+      "endSec": 8.337,
+      "startFrame": 246,
+      "endFrame": 250
+    },
+    {
+      "word": "you",
+      "startSec": 8.347,
+      "endSec": 8.432,
+      "startFrame": 250,
+      "endFrame": 253
+    },
+    {
+      "word": "have",
+      "startSec": 8.443,
+      "endSec": 8.612,
+      "startFrame": 253,
+      "endFrame": 258
+    },
+    {
+      "word": "to",
+      "startSec": 8.623,
+      "endSec": 8.686,
+      "startFrame": 259,
+      "endFrame": 261
+    },
+    {
+      "word": "ask",
+      "startSec": 8.697,
+      "endSec": 8.919,
+      "startFrame": 261,
+      "endFrame": 268
+    },
+    {
+      "word": "yourself",
+      "startSec": 8.93,
+      "endSec": 9.386,
+      "startFrame": 268,
+      "endFrame": 282
+    },
+    {
+      "word": "Why",
+      "startSec": 9.661,
+      "endSec": 9.82,
+      "startFrame": 290,
+      "endFrame": 295
+    },
+    {
+      "word": "would",
+      "startSec": 9.831,
+      "endSec": 9.947,
+      "startFrame": 295,
+      "endFrame": 298
+    },
+    {
+      "word": "a",
+      "startSec": 9.958,
+      "endSec": 10.011,
+      "startFrame": 299,
+      "endFrame": 300
+    },
+    {
+      "word": "billionaire",
+      "startSec": 10.021,
+      "endSec": 10.625,
+      "startFrame": 301,
+      "endFrame": 319
+    },
+    {
+      "word": "or",
+      "startSec": 10.636,
+      "endSec": 10.752,
+      "startFrame": 319,
+      "endFrame": 323
+    },
+    {
+      "word": "an",
+      "startSec": 10.763,
+      "endSec": 10.816,
+      "startFrame": 323,
+      "endFrame": 324
+    },
+    {
+      "word": "aspiring",
+      "startSec": 10.826,
+      "endSec": 11.314,
+      "startFrame": 325,
+      "endFrame": 339
+    },
+    {
+      "word": "governor",
+      "startSec": 11.324,
+      "endSec": 11.631,
+      "startFrame": 340,
+      "endFrame": 349
+    },
+    {
+      "word": "wait",
+      "startSec": 11.642,
+      "endSec": 11.833,
+      "startFrame": 349,
+      "endFrame": 355
+    },
+    {
+      "word": "for",
+      "startSec": 11.843,
+      "endSec": 11.97,
+      "startFrame": 355,
+      "endFrame": 359
+    },
+    {
+      "word": "five",
+      "startSec": 11.981,
+      "endSec": 12.256,
+      "startFrame": 359,
+      "endFrame": 368
+    },
+    {
+      "word": "hours",
+      "startSec": 12.267,
+      "endSec": 12.595,
+      "startFrame": 368,
+      "endFrame": 378
+    },
+    {
+      "word": "in",
+      "startSec": 12.606,
+      "endSec": 12.669,
+      "startFrame": 378,
+      "endFrame": 380
+    },
+    {
+      "word": "an",
+      "startSec": 12.68,
+      "endSec": 12.797,
+      "startFrame": 380,
+      "endFrame": 384
+    },
+    {
+      "word": "open",
+      "startSec": 12.807,
+      "endSec": 13.051,
+      "startFrame": 384,
+      "endFrame": 392
+    },
+    {
+      "word": "compound",
+      "startSec": 13.061,
+      "endSec": 13.528,
+      "startFrame": 392,
+      "endFrame": 406
+    },
+    {
+      "word": "in",
+      "startSec": 13.538,
+      "endSec": 13.602,
+      "startFrame": 406,
+      "endFrame": 408
+    },
+    {
+      "word": "Molete",
+      "startSec": 13.612,
+      "endSec": 13.972,
+      "startFrame": 408,
+      "endFrame": 419
+    },
+    {
+      "word": "just",
+      "startSec": 13.983,
+      "endSec": 14.195,
+      "startFrame": 419,
+      "endFrame": 426
+    },
+    {
+      "word": "to",
+      "startSec": 14.206,
+      "endSec": 14.258,
+      "startFrame": 426,
+      "endFrame": 428
+    },
+    {
+      "word": "see",
+      "startSec": 14.269,
+      "endSec": 14.428,
+      "startFrame": 428,
+      "endFrame": 433
+    },
+    {
+      "word": "an",
+      "startSec": 14.439,
+      "endSec": 14.523,
+      "startFrame": 433,
+      "endFrame": 436
+    },
+    {
+      "word": "old",
+      "startSec": 14.534,
+      "endSec": 14.703,
+      "startFrame": 436,
+      "endFrame": 441
+    },
+    {
+      "word": "man",
+      "startSec": 14.714,
+      "endSec": 14.958,
+      "startFrame": 441,
+      "endFrame": 449
+    },
+    {
+      "word": "in",
+      "startSec": 14.968,
+      "endSec": 15.064,
+      "startFrame": 449,
+      "endFrame": 452
+    },
+    {
+      "word": "an",
+      "startSec": 15.074,
+      "endSec": 15.138,
+      "startFrame": 452,
+      "endFrame": 454
+    },
+    {
+      "word": "agbada",
+      "startSec": 15.148,
+      "endSec": 15.593,
+      "startFrame": 454,
+      "endFrame": 468
+    },
+    {
+      "word": "The",
+      "startSec": 16.324,
+      "endSec": 16.451,
+      "startFrame": 490,
+      "endFrame": 494
+    },
+    {
+      "word": "funny",
+      "startSec": 16.462,
+      "endSec": 16.727,
+      "startFrame": 494,
+      "endFrame": 502
+    },
+    {
+      "word": "thing",
+      "startSec": 16.737,
+      "endSec": 16.97,
+      "startFrame": 502,
+      "endFrame": 509
+    },
+    {
+      "word": "is",
+      "startSec": 16.981,
+      "endSec": 17.235,
+      "startFrame": 509,
+      "endFrame": 517
+    },
+    {
+      "word": "Chief",
+      "startSec": 17.394,
+      "endSec": 17.648,
+      "startFrame": 522,
+      "endFrame": 529
+    },
+    {
+      "word": "Lamidi",
+      "startSec": 17.659,
+      "endSec": 18.093,
+      "startFrame": 530,
+      "endFrame": 543
+    },
+    {
+      "word": "Adedibu",
+      "startSec": 18.104,
+      "endSec": 18.538,
+      "startFrame": 543,
+      "endFrame": 556
+    },
+    {
+      "word": "was",
+      "startSec": 18.549,
+      "endSec": 18.697,
+      "startFrame": 556,
+      "endFrame": 561
+    },
+    {
+      "word": "not",
+      "startSec": 18.708,
+      "endSec": 18.909,
+      "startFrame": 561,
+      "endFrame": 567
+    },
+    {
+      "word": "a",
+      "startSec": 18.919,
+      "endSec": 18.962,
+      "startFrame": 568,
+      "endFrame": 569
+    },
+    {
+      "word": "governor",
+      "startSec": 18.972,
+      "endSec": 19.417,
+      "startFrame": 569,
+      "endFrame": 583
+    },
+    {
+      "word": "He",
+      "startSec": 20.148,
+      "endSec": 20.286,
+      "startFrame": 604,
+      "endFrame": 609
+    },
+    {
+      "word": "was",
+      "startSec": 20.297,
+      "endSec": 20.434,
+      "startFrame": 609,
+      "endFrame": 613
+    },
+    {
+      "word": "not",
+      "startSec": 20.445,
+      "endSec": 20.646,
+      "startFrame": 613,
+      "endFrame": 619
+    },
+    {
+      "word": "a",
+      "startSec": 20.657,
+      "endSec": 20.699,
+      "startFrame": 620,
+      "endFrame": 621
+    },
+    {
+      "word": "senator",
+      "startSec": 20.71,
+      "endSec": 21.197,
+      "startFrame": 621,
+      "endFrame": 636
+    },
+    {
+      "word": "He",
+      "startSec": 21.928,
+      "endSec": 22.076,
+      "startFrame": 658,
+      "endFrame": 662
+    },
+    {
+      "word": "held",
+      "startSec": 22.087,
+      "endSec": 22.309,
+      "startFrame": 663,
+      "endFrame": 669
+    },
+    {
+      "word": "no",
+      "startSec": 22.32,
+      "endSec": 22.5,
+      "startFrame": 670,
+      "endFrame": 675
+    },
+    {
+      "word": "official",
+      "startSec": 22.511,
+      "endSec": 22.871,
+      "startFrame": 675,
+      "endFrame": 686
+    },
+    {
+      "word": "government",
+      "startSec": 22.881,
+      "endSec": 23.242,
+      "startFrame": 686,
+      "endFrame": 697
+    },
+    {
+      "word": "title",
+      "startSec": 23.252,
+      "endSec": 23.655,
+      "startFrame": 698,
+      "endFrame": 710
+    },
+    {
+      "word": "And",
+      "startSec": 24.386,
+      "endSec": 24.555,
+      "startFrame": 732,
+      "endFrame": 737
+    },
+    {
+      "word": "yet",
+      "startSec": 24.566,
+      "endSec": 24.83,
+      "startFrame": 737,
+      "endFrame": 745
+    },
+    {
+      "word": "nobody",
+      "startSec": 25.011,
+      "endSec": 25.381,
+      "startFrame": 750,
+      "endFrame": 761
+    },
+    {
+      "word": "in",
+      "startSec": 25.392,
+      "endSec": 25.519,
+      "startFrame": 762,
+      "endFrame": 766
+    },
+    {
+      "word": "Oyo",
+      "startSec": 25.53,
+      "endSec": 25.752,
+      "startFrame": 766,
+      "endFrame": 773
+    },
+    {
+      "word": "State",
+      "startSec": 25.763,
+      "endSec": 26.08,
+      "startFrame": 773,
+      "endFrame": 782
+    },
+    {
+      "word": "could",
+      "startSec": 26.091,
+      "endSec": 26.229,
+      "startFrame": 783,
+      "endFrame": 787
+    },
+    {
+      "word": "win",
+      "startSec": 26.239,
+      "endSec": 26.409,
+      "startFrame": 787,
+      "endFrame": 792
+    },
+    {
+      "word": "an",
+      "startSec": 26.419,
+      "endSec": 26.483,
+      "startFrame": 793,
+      "endFrame": 794
+    },
+    {
+      "word": "election",
+      "startSec": 26.494,
+      "endSec": 26.886,
+      "startFrame": 795,
+      "endFrame": 807
+    },
+    {
+      "word": "without",
+      "startSec": 26.896,
+      "endSec": 27.161,
+      "startFrame": 807,
+      "endFrame": 815
+    },
+    {
+      "word": "his",
+      "startSec": 27.172,
+      "endSec": 27.288,
+      "startFrame": 815,
+      "endFrame": 819
+    },
+    {
+      "word": "blessing",
+      "startSec": 27.299,
+      "endSec": 27.775,
+      "startFrame": 819,
+      "endFrame": 833
+    },
+    {
+      "word": "Because",
+      "startSec": 28.506,
+      "endSec": 28.824,
+      "startFrame": 855,
+      "endFrame": 865
+    },
+    {
+      "word": "you",
+      "startSec": 28.835,
+      "endSec": 28.93,
+      "startFrame": 865,
+      "endFrame": 868
+    },
+    {
+      "word": "see",
+      "startSec": 28.941,
+      "endSec": 29.29,
+      "startFrame": 868,
+      "endFrame": 879
+    },
+    {
+      "word": "Adedibu",
+      "startSec": 29.449,
+      "endSec": 29.883,
+      "startFrame": 883,
+      "endFrame": 897
+    },
+    {
+      "word": "understood",
+      "startSec": 29.894,
+      "endSec": 30.297,
+      "startFrame": 897,
+      "endFrame": 909
+    },
+    {
+      "word": "a",
+      "startSec": 30.307,
+      "endSec": 30.36,
+      "startFrame": 909,
+      "endFrame": 911
+    },
+    {
+      "word": "brutal",
+      "startSec": 30.371,
+      "endSec": 30.678,
+      "startFrame": 911,
+      "endFrame": 920
+    },
+    {
+      "word": "truth",
+      "startSec": 30.689,
+      "endSec": 30.985,
+      "startFrame": 921,
+      "endFrame": 930
+    },
+    {
+      "word": "that",
+      "startSec": 30.996,
+      "endSec": 31.123,
+      "startFrame": 930,
+      "endFrame": 934
+    },
+    {
+      "word": "most",
+      "startSec": 31.133,
+      "endSec": 31.388,
+      "startFrame": 934,
+      "endFrame": 942
+    },
+    {
+      "word": "politicians",
+      "startSec": 31.398,
+      "endSec": 32.023,
+      "startFrame": 942,
+      "endFrame": 961
+    },
+    {
+      "word": "never",
+      "startSec": 32.034,
+      "endSec": 32.267,
+      "startFrame": 961,
+      "endFrame": 968
+    },
+    {
+      "word": "learn",
+      "startSec": 32.278,
+      "endSec": 32.617,
+      "startFrame": 968,
+      "endFrame": 978
+    },
+    {
+      "word": "He",
+      "startSec": 33.347,
+      "endSec": 33.496,
+      "startFrame": 1000,
+      "endFrame": 1005
+    },
+    {
+      "word": "knew",
+      "startSec": 33.506,
+      "endSec": 33.665,
+      "startFrame": 1005,
+      "endFrame": 1010
+    },
+    {
+      "word": "power",
+      "startSec": 33.676,
+      "endSec": 33.983,
+      "startFrame": 1010,
+      "endFrame": 1019
+    },
+    {
+      "word": "does",
+      "startSec": 33.994,
+      "endSec": 34.121,
+      "startFrame": 1020,
+      "endFrame": 1024
+    },
+    {
+      "word": "not",
+      "startSec": 34.131,
+      "endSec": 34.333,
+      "startFrame": 1024,
+      "endFrame": 1030
+    },
+    {
+      "word": "live",
+      "startSec": 34.343,
+      "endSec": 34.566,
+      "startFrame": 1030,
+      "endFrame": 1037
+    },
+    {
+      "word": "on",
+      "startSec": 34.576,
+      "endSec": 34.703,
+      "startFrame": 1037,
+      "endFrame": 1041
+    },
+    {
+      "word": "billboards",
+      "startSec": 34.714,
+      "endSec": 35.318,
+      "startFrame": 1041,
+      "endFrame": 1060
+    },
+    {
+      "word": "Power",
+      "startSec": 36.049,
+      "endSec": 36.388,
+      "startFrame": 1081,
+      "endFrame": 1092
+    },
+    {
+      "word": "lives",
+      "startSec": 36.398,
+      "endSec": 36.663,
+      "startFrame": 1092,
+      "endFrame": 1100
+    },
+    {
+      "word": "on",
+      "startSec": 36.674,
+      "endSec": 36.769,
+      "startFrame": 1100,
+      "endFrame": 1103
+    },
+    {
+      "word": "the",
+      "startSec": 36.78,
+      "endSec": 36.843,
+      "startFrame": 1103,
+      "endFrame": 1105
+    },
+    {
+      "word": "street",
+      "startSec": 36.854,
+      "endSec": 37.246,
+      "startFrame": 1106,
+      "endFrame": 1117
+    },
+    {
+      "word": "Every",
+      "startSec": 37.977,
+      "endSec": 38.263,
+      "startFrame": 1139,
+      "endFrame": 1148
+    },
+    {
+      "word": "single",
+      "startSec": 38.273,
+      "endSec": 38.58,
+      "startFrame": 1148,
+      "endFrame": 1157
+    },
+    {
+      "word": "morning",
+      "startSec": 38.591,
+      "endSec": 38.951,
+      "startFrame": 1158,
+      "endFrame": 1169
+    },
+    {
+      "word": "his",
+      "startSec": 39.153,
+      "endSec": 39.29,
+      "startFrame": 1175,
+      "endFrame": 1179
+    },
+    {
+      "word": "gates",
+      "startSec": 39.301,
+      "endSec": 39.576,
+      "startFrame": 1179,
+      "endFrame": 1187
+    },
+    {
+      "word": "opened",
+      "startSec": 39.587,
+      "endSec": 39.841,
+      "startFrame": 1188,
+      "endFrame": 1195
+    },
+    {
+      "word": "to",
+      "startSec": 39.852,
+      "endSec": 39.915,
+      "startFrame": 1196,
+      "endFrame": 1197
+    },
+    {
+      "word": "hundreds",
+      "startSec": 39.926,
+      "endSec": 40.265,
+      "startFrame": 1198,
+      "endFrame": 1208
+    },
+    {
+      "word": "of",
+      "startSec": 40.275,
+      "endSec": 40.35,
+      "startFrame": 1208,
+      "endFrame": 1210
+    },
+    {
+      "word": "ordinary",
+      "startSec": 40.36,
+      "endSec": 40.742,
+      "startFrame": 1211,
+      "endFrame": 1222
+    },
+    {
+      "word": "market",
+      "startSec": 40.752,
+      "endSec": 41.049,
+      "startFrame": 1223,
+      "endFrame": 1231
+    },
+    {
+      "word": "women",
+      "startSec": 41.059,
+      "endSec": 41.324,
+      "startFrame": 1232,
+      "endFrame": 1240
+    },
+    {
+      "word": "bus",
+      "startSec": 41.525,
+      "endSec": 41.705,
+      "startFrame": 1246,
+      "endFrame": 1251
+    },
+    {
+      "word": "drivers",
+      "startSec": 41.716,
+      "endSec": 42.225,
+      "startFrame": 1251,
+      "endFrame": 1267
+    },
+    {
+      "word": "and",
+      "startSec": 42.383,
+      "endSec": 42.542,
+      "startFrame": 1272,
+      "endFrame": 1276
+    },
+    {
+      "word": "widows",
+      "startSec": 42.553,
+      "endSec": 43.051,
+      "startFrame": 1277,
+      "endFrame": 1292
+    },
+    {
+      "word": "He",
+      "startSec": 43.782,
+      "endSec": 43.919,
+      "startFrame": 1313,
+      "endFrame": 1318
+    },
+    {
+      "word": "paid",
+      "startSec": 43.93,
+      "endSec": 44.163,
+      "startFrame": 1318,
+      "endFrame": 1325
+    },
+    {
+      "word": "hospital",
+      "startSec": 44.174,
+      "endSec": 44.597,
+      "startFrame": 1325,
+      "endFrame": 1338
+    },
+    {
+      "word": "bills",
+      "startSec": 44.608,
+      "endSec": 44.936,
+      "startFrame": 1338,
+      "endFrame": 1348
+    },
+    {
+      "word": "settled",
+      "startSec": 45.117,
+      "endSec": 45.434,
+      "startFrame": 1353,
+      "endFrame": 1363
+    },
+    {
+      "word": "family",
+      "startSec": 45.445,
+      "endSec": 45.773,
+      "startFrame": 1363,
+      "endFrame": 1373
+    },
+    {
+      "word": "fights",
+      "startSec": 45.784,
+      "endSec": 46.155,
+      "startFrame": 1374,
+      "endFrame": 1385
+    },
+    {
+      "word": "and",
+      "startSec": 46.335,
+      "endSec": 46.472,
+      "startFrame": 1390,
+      "endFrame": 1394
+    },
+    {
+      "word": "fed",
+      "startSec": 46.483,
+      "endSec": 46.716,
+      "startFrame": 1394,
+      "endFrame": 1401
+    },
+    {
+      "word": "everyone",
+      "startSec": 46.727,
+      "endSec": 47.076,
+      "startFrame": 1402,
+      "endFrame": 1412
+    },
+    {
+      "word": "steaming",
+      "startSec": 47.087,
+      "endSec": 47.447,
+      "startFrame": 1413,
+      "endFrame": 1423
+    },
+    {
+      "word": "hot",
+      "startSec": 47.458,
+      "endSec": 47.669,
+      "startFrame": 1424,
+      "endFrame": 1430
+    },
+    {
+      "word": "food",
+      "startSec": 47.68,
+      "endSec": 48.051,
+      "startFrame": 1430,
+      "endFrame": 1442
+    },
+    {
+      "word": "So",
+      "startSec": 48.782,
+      "endSec": 49.004,
+      "startFrame": 1463,
+      "endFrame": 1470
+    },
+    {
+      "word": "when",
+      "startSec": 49.015,
+      "endSec": 49.142,
+      "startFrame": 1470,
+      "endFrame": 1474
+    },
+    {
+      "word": "election",
+      "startSec": 49.153,
+      "endSec": 49.523,
+      "startFrame": 1475,
+      "endFrame": 1486
+    },
+    {
+      "word": "day",
+      "startSec": 49.534,
+      "endSec": 49.682,
+      "startFrame": 1486,
+      "endFrame": 1490
+    },
+    {
+      "word": "came",
+      "startSec": 49.693,
+      "endSec": 50.053,
+      "startFrame": 1491,
+      "endFrame": 1502
+    },
+    {
+      "word": "he",
+      "startSec": 50.265,
+      "endSec": 50.328,
+      "startFrame": 1508,
+      "endFrame": 1510
+    },
+    {
+      "word": "did",
+      "startSec": 50.339,
+      "endSec": 50.466,
+      "startFrame": 1510,
+      "endFrame": 1514
+    },
+    {
+      "word": "not",
+      "startSec": 50.477,
+      "endSec": 50.657,
+      "startFrame": 1514,
+      "endFrame": 1520
+    },
+    {
+      "word": "need",
+      "startSec": 50.667,
+      "endSec": 50.826,
+      "startFrame": 1520,
+      "endFrame": 1525
+    },
+    {
+      "word": "to",
+      "startSec": 50.837,
+      "endSec": 50.911,
+      "startFrame": 1525,
+      "endFrame": 1527
+    },
+    {
+      "word": "beg",
+      "startSec": 50.922,
+      "endSec": 51.165,
+      "startFrame": 1528,
+      "endFrame": 1535
+    },
+    {
+      "word": "for",
+      "startSec": 51.176,
+      "endSec": 51.303,
+      "startFrame": 1535,
+      "endFrame": 1539
+    },
+    {
+      "word": "votes",
+      "startSec": 51.314,
+      "endSec": 51.769,
+      "startFrame": 1539,
+      "endFrame": 1553
+    },
+    {
+      "word": "The street",
+      "startSec": 52.5,
+      "endSec": 52.924,
+      "startFrame": 1575,
+      "endFrame": 1588
+    },
+    {
+      "word": "was",
+      "startSec": 52.934,
+      "endSec": 53.051,
+      "startFrame": 1588,
+      "endFrame": 1592
+    },
+    {
+      "word": "already",
+      "startSec": 53.061,
+      "endSec": 53.411,
+      "startFrame": 1592,
+      "endFrame": 1602
+    },
+    {
+      "word": "completely",
+      "startSec": 53.422,
+      "endSec": 53.888,
+      "startFrame": 1603,
+      "endFrame": 1617
+    },
+    {
+      "word": "loyal",
+      "startSec": 53.898,
+      "endSec": 54.227,
+      "startFrame": 1617,
+      "endFrame": 1627
+    },
+    {
+      "word": "to",
+      "startSec": 54.237,
+      "endSec": 54.354,
+      "startFrame": 1627,
+      "endFrame": 1631
+    },
+    {
+      "word": "him",
+      "startSec": 54.364,
+      "endSec": 54.619,
+      "startFrame": 1631,
+      "endFrame": 1639
+    },
+    {
+      "word": "And",
+      "startSec": 55.35,
+      "endSec": 55.498,
+      "startFrame": 1660,
+      "endFrame": 1665
+    },
+    {
+      "word": "that",
+      "startSec": 55.508,
+      "endSec": 55.689,
+      "startFrame": 1665,
+      "endFrame": 1671
+    },
+    {
+      "word": "is",
+      "startSec": 55.699,
+      "endSec": 55.805,
+      "startFrame": 1671,
+      "endFrame": 1674
+    },
+    {
+      "word": "the",
+      "startSec": 55.816,
+      "endSec": 55.911,
+      "startFrame": 1674,
+      "endFrame": 1677
+    },
+    {
+      "word": "real",
+      "startSec": 55.922,
+      "endSec": 56.197,
+      "startFrame": 1678,
+      "endFrame": 1686
+    },
+    {
+      "word": "reason",
+      "startSec": 56.208,
+      "endSec": 56.494,
+      "startFrame": 1686,
+      "endFrame": 1695
+    },
+    {
+      "word": "people",
+      "startSec": 56.504,
+      "endSec": 56.78,
+      "startFrame": 1695,
+      "endFrame": 1703
+    },
+    {
+      "word": "still",
+      "startSec": 56.79,
+      "endSec": 57.055,
+      "startFrame": 1704,
+      "endFrame": 1712
+    },
+    {
+      "word": "whisper",
+      "startSec": 57.066,
+      "endSec": 57.383,
+      "startFrame": 1712,
+      "endFrame": 1722
+    },
+    {
+      "word": "about",
+      "startSec": 57.394,
+      "endSec": 57.595,
+      "startFrame": 1722,
+      "endFrame": 1728
+    },
+    {
+      "word": "Molete",
+      "startSec": 57.606,
+      "endSec": 58.051,
+      "startFrame": 1728,
+      "endFrame": 1742
+    },
+    {
+      "word": "It",
+      "startSec": 58.782,
+      "endSec": 58.898,
+      "startFrame": 1763,
+      "endFrame": 1767
+    },
+    {
+      "word": "was",
+      "startSec": 58.909,
+      "endSec": 59.036,
+      "startFrame": 1767,
+      "endFrame": 1771
+    },
+    {
+      "word": "never",
+      "startSec": 59.047,
+      "endSec": 59.311,
+      "startFrame": 1771,
+      "endFrame": 1779
+    },
+    {
+      "word": "about",
+      "startSec": 59.322,
+      "endSec": 59.523,
+      "startFrame": 1780,
+      "endFrame": 1786
+    },
+    {
+      "word": "the",
+      "startSec": 59.534,
+      "endSec": 59.597,
+      "startFrame": 1786,
+      "endFrame": 1788
+    },
+    {
+      "word": "food",
+      "startSec": 59.608,
+      "endSec": 60.021,
+      "startFrame": 1788,
+      "endFrame": 1801
+    },
+    {
+      "word": "It",
+      "startSec": 60.752,
+      "endSec": 60.869,
+      "startFrame": 1823,
+      "endFrame": 1826
+    },
+    {
+      "word": "was",
+      "startSec": 60.879,
+      "endSec": 61.017,
+      "startFrame": 1826,
+      "endFrame": 1831
+    },
+    {
+      "word": "proof",
+      "startSec": 61.028,
+      "endSec": 61.345,
+      "startFrame": 1831,
+      "endFrame": 1840
+    },
+    {
+      "word": "that",
+      "startSec": 61.356,
+      "endSec": 61.472,
+      "startFrame": 1841,
+      "endFrame": 1844
+    },
+    {
+      "word": "in",
+      "startSec": 61.483,
+      "endSec": 61.547,
+      "startFrame": 1844,
+      "endFrame": 1846
+    },
+    {
+      "word": "Ibadan",
+      "startSec": 61.557,
+      "endSec": 61.97,
+      "startFrame": 1847,
+      "endFrame": 1859
+    },
+    {
+      "word": "you",
+      "startSec": 62.203,
+      "endSec": 62.267,
+      "startFrame": 1866,
+      "endFrame": 1868
+    },
+    {
+      "word": "can",
+      "startSec": 62.278,
+      "endSec": 62.373,
+      "startFrame": 1868,
+      "endFrame": 1871
+    },
+    {
+      "word": "have",
+      "startSec": 62.383,
+      "endSec": 62.564,
+      "startFrame": 1872,
+      "endFrame": 1877
+    },
+    {
+      "word": "all",
+      "startSec": 62.574,
+      "endSec": 62.701,
+      "startFrame": 1877,
+      "endFrame": 1881
+    },
+    {
+      "word": "the",
+      "startSec": 62.712,
+      "endSec": 62.786,
+      "startFrame": 1881,
+      "endFrame": 1884
+    },
+    {
+      "word": "money",
+      "startSec": 62.797,
+      "endSec": 63.051,
+      "startFrame": 1884,
+      "endFrame": 1892
+    },
+    {
+      "word": "in",
+      "startSec": 63.061,
+      "endSec": 63.114,
+      "startFrame": 1892,
+      "endFrame": 1893
+    },
+    {
+      "word": "the",
+      "startSec": 63.125,
+      "endSec": 63.189,
+      "startFrame": 1894,
+      "endFrame": 1896
+    },
+    {
+      "word": "world",
+      "startSec": 63.199,
+      "endSec": 63.538,
+      "startFrame": 1896,
+      "endFrame": 1906
+    },
+    {
+      "word": "but",
+      "startSec": 63.814,
+      "endSec": 63.909,
+      "startFrame": 1914,
+      "endFrame": 1917
+    },
+    {
+      "word": "if",
+      "startSec": 63.919,
+      "endSec": 64.004,
+      "startFrame": 1918,
+      "endFrame": 1920
+    },
+    {
+      "word": "you",
+      "startSec": 64.015,
+      "endSec": 64.089,
+      "startFrame": 1920,
+      "endFrame": 1923
+    },
+    {
+      "word": "do",
+      "startSec": 64.1,
+      "endSec": 64.195,
+      "startFrame": 1923,
+      "endFrame": 1926
+    },
+    {
+      "word": "not",
+      "startSec": 64.206,
+      "endSec": 64.386,
+      "startFrame": 1926,
+      "endFrame": 1932
+    },
+    {
+      "word": "have",
+      "startSec": 64.396,
+      "endSec": 64.555,
+      "startFrame": 1932,
+      "endFrame": 1937
+    },
+    {
+      "word": "the",
+      "startSec": 64.566,
+      "endSec": 64.629,
+      "startFrame": 1937,
+      "endFrame": 1939
+    },
+    {
+      "word": "hearts",
+      "startSec": 64.64,
+      "endSec": 64.926,
+      "startFrame": 1939,
+      "endFrame": 1948
+    },
+    {
+      "word": "of",
+      "startSec": 64.936,
+      "endSec": 64.989,
+      "startFrame": 1948,
+      "endFrame": 1950
+    },
+    {
+      "word": "the",
+      "startSec": 65.0,
+      "endSec": 65.074,
+      "startFrame": 1950,
+      "endFrame": 1952
+    },
+    {
+      "word": "people",
+      "startSec": 65.085,
+      "endSec": 65.371,
+      "startFrame": 1953,
+      "endFrame": 1961
+    },
+    {
+      "word": "on",
+      "startSec": 65.381,
+      "endSec": 65.466,
+      "startFrame": 1961,
+      "endFrame": 1964
+    },
+    {
+      "word": "the",
+      "startSec": 65.477,
+      "endSec": 65.53,
+      "startFrame": 1964,
+      "endFrame": 1966
+    },
+    {
+      "word": "street",
+      "startSec": 65.54,
+      "endSec": 65.847,
+      "startFrame": 1966,
+      "endFrame": 1975
+    },
+    {
+      "word": "you",
+      "startSec": 66.017,
+      "endSec": 66.123,
+      "startFrame": 1981,
+      "endFrame": 1984
+    },
+    {
+      "word": "have",
+      "startSec": 66.133,
+      "endSec": 66.292,
+      "startFrame": 1984,
+      "endFrame": 1989
+    },
+    {
+      "word": "nothing",
+      "startSec": 66.303,
+      "endSec": 66.737,
+      "startFrame": 1989,
+      "endFrame": 2002
+    }
+  ]
+}
