@@ -794,15 +794,15 @@ function renderShots(shots) {
         <span class="shot-badge">${s.framing}</span>
       </div>
       <div class="shot-meta">
-        <span>👤 ${s.character}</span> &bull; 
-        <span>🌄 ${s.environment}</span> &bull; 
-        <span>⏱️ ${s.suggestedDurationSec}s</span>
+        <span>Cast: ${s.character}</span> &bull; 
+        <span>Set: ${s.environment}</span> &bull; 
+        <span>${s.suggestedDurationSec}s</span>
       </div>
       
       <!-- Virtual Production Crew Guardrails (Collapsible) -->
       <details class="crew-guardrails" style="cursor: pointer;">
         <summary class="crew-guardrails-title" style="list-style: none; display: flex; justify-content: space-between; align-items: center; user-select: none;">
-          <span>🛡️ Production Crew Guardrails</span>
+          <span>Production Crew Guardrails</span>
           <span class="badge badge-success">ACTIVE ▼</span>
         </summary>
         <div style="margin-top: 8px;">
@@ -827,9 +827,9 @@ function renderShots(shots) {
 
       <div class="flow-prompt-box">
         <div class="flow-prompt-label">
-          <span>GOOGLE FLOW / VEO PROMPT (EDITABLE)</span>
+          <span>GOOGLE FLOW / VEO PROMPT</span>
           <div style="display: flex; gap: 6px;">
-            <button class="btn btn-xs btn-outline" onclick="saveShotPrompt(${idx})">💾 Save</button>
+            <button class="btn btn-xs btn-outline" onclick="saveShotPrompt(${idx})">Save</button>
             <button class="btn btn-xs" onclick="copyText(document.getElementById('prompt-text-${idx}').value)">Copy</button>
           </div>
         </div>
@@ -870,13 +870,13 @@ function renderFootage(shots) {
         </div>
         <div class="footage-actions">
           <a href="${s.videoClipUrl}" download="${s.code}_clip.mp4" class="btn btn-outline btn-xs">
-            ⬇️ Download Bit (.mp4)
+            Download Bit (.mp4)
           </a>
           <button id="gen-video-btn-${idx}" class="btn btn-outline btn-xs" onclick="triggerAIVideoGeneration('${s.id}', ${idx})">
-            ⚡ Regenerate Video
+            Regenerate Video
           </button>
           <label class="btn btn-outline btn-xs" style="cursor: pointer;">
-            🔄 Replace MP4
+            Replace MP4
             <input type="file" accept="video/mp4" style="display: none;" onchange="uploadReplacementVideo('${s.id}', this.files[0])">
           </label>
         </div>
@@ -885,19 +885,18 @@ function renderFootage(shots) {
       card.innerHTML = `
         <div class="shot-card-header">
           <span class="shot-code">${s.code}</span>
-          <span class="shot-badge" style="background: rgba(255, 85, 0, 0.2); color: #ff5500;">PENDING FOOTAGE</span>
+          <span class="badge badge-accent">PENDING FOOTAGE</span>
         </div>
-        <div class="footage-video-container" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 180px; background: #0c0f16; border: 1px dashed #2d3748; padding: 15px; text-align: center;">
-          <div style="font-size: 24px; margin-bottom: 8px;">🎬</div>
-          <div style="font-size: 13px; font-weight: 600; color: #f1f5f9;">Awaiting AI Video Render</div>
+        <div class="footage-video-container" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 160px; background: #080a10; border: 1px dashed #202636; padding: 15px; text-align: center;">
+          <div style="font-size: 13px; font-weight: 600; color: #f1f5f9;">Awaiting Video Render</div>
           <div style="font-size: 11px; color: #64748b; margin-top: 4px;">Run cloud video model or upload an MP4 clip</div>
         </div>
         <div class="footage-actions" style="display: flex; flex-direction: column; gap: 6px;">
           <button id="gen-video-btn-${idx}" class="btn btn-primary btn-xs" onclick="triggerAIVideoGeneration('${s.id}', ${idx})">
-            ⚡ Generate Real AI Video (Cloud GPU)
+            Generate Cloud Video
           </button>
           <label class="btn btn-outline btn-xs" style="cursor: pointer; width: 100%; text-align: center;">
-            📤 Upload Rendered .MP4 Clip
+            Upload .MP4 Clip
             <input type="file" accept="video/mp4" style="display: none;" onchange="uploadReplacementVideo('${s.id}', this.files[0])">
           </label>
         </div>

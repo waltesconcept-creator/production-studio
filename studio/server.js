@@ -21,8 +21,14 @@ app.use(cors());
 app.use(express.json({ limit: '50mb' }));
 app.use(express.urlencoded({ extended: true, limit: '50mb' }));
 
-// Static file hosting
-app.use(express.static(path.resolve(__dirname, 'public')));
+// Static file hosting (No-cache headers to ensure instant mobile updates)
+app.use(express.static(path.resolve(__dirname, 'public'), {
+  setHeaders: (res, filePath) => {
+    res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+    res.setHeader('Pragma', 'no-cache');
+    res.setHeader('Expires', '0');
+  }
+}));
 app.use('/assets', express.static(path.resolve(__dirname, '../public/assets')));
 app.use('/audio', express.static(path.resolve(__dirname, '../public/audio')));
 app.use('/out', express.static(path.resolve(__dirname, '../out')));
