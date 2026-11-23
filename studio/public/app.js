@@ -358,6 +358,19 @@ function initActionButtons() {
     }
   });
 
+  // Inspiration Idea Chips (Tap to populate)
+  document.querySelectorAll('.idea-chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      const title = chip.getAttribute('data-title');
+      const synopsis = chip.getAttribute('data-synopsis');
+      const genre = chip.getAttribute('data-genre');
+      if (title) document.getElementById('storyTitle').value = title;
+      if (synopsis) document.getElementById('storySynopsis').value = synopsis;
+      if (genre) document.getElementById('storyGenre').value = genre;
+      showToast(`Loaded idea: ${title}`);
+    });
+  });
+
   // Analyze Story into Beats
   document.getElementById('analyzeStoryBtn').addEventListener('click', async () => {
     const title = document.getElementById('storyTitle').value;
@@ -691,14 +704,18 @@ function renderBeats(beats) {
     card.className = 'beat-card';
     card.innerHTML = `
       <div class="beat-card-header">
-        <input type="text" class="beat-edit-title" value="${escapeQuotes(b.title || `Scene ${i + 1}`)}" onchange="updateBeatTitle(${i}, this.value)">
-        <div style="display: flex; gap: 8px; align-items: center;">
-          <input type="number" class="beat-edit-duration" value="${b.durationSec || 4}" min="1" max="60" style="width: 55px; padding: 4px; text-align: center;" onchange="updateBeatDuration(${i}, this.value)">
-          <span style="font-size: 11px; color: var(--accent-cyan);">sec</span>
-          <button class="btn btn-xs btn-outline" style="color: #ef4444; border-color: #ef4444;" onclick="deleteBeat(${i})">✕</button>
+        <span class="badge badge-accent">SCENE ${String(i + 1).padStart(2, '0')}</span>
+        <input type="text" class="beat-edit-title" value="${escapeQuotes(b.title || `Scene ${i + 1}`)}" onchange="updateBeatTitle(${i}, this.value)" placeholder="Scene title...">
+        <div style="display: flex; gap: 6px; align-items: center; flex-shrink: 0;">
+          <input type="number" class="beat-edit-duration" value="${b.durationSec || 4}" min="1" max="60" style="width: 48px; padding: 4px; text-align: center;" onchange="updateBeatDuration(${i}, this.value)">
+          <span style="font-size: 11px; color: var(--accent-cyan); font-family: var(--font-code);">s</span>
+          <button class="btn btn-xs btn-outline" style="color: #ef4444; border-color: rgba(239, 68, 68, 0.4); min-width: 28px;" onclick="deleteBeat(${i})" title="Delete scene">✕</button>
         </div>
       </div>
-      <textarea class="beat-edit-narration" rows="2" style="margin-top: 6px; font-size: 13px;" onchange="updateBeatNarration(${i}, this.value)">${b.narration || b.description || ''}</textarea>
+      <div style="margin-top: 4px;">
+        <label style="font-size: 11px; color: var(--text-sub); font-weight: 600; display: block; margin-bottom: 4px;">Action / Narration Dialogue:</label>
+        <textarea class="beat-edit-narration" rows="2" onchange="updateBeatNarration(${i}, this.value)" placeholder="Visual action or voiceover for this beat...">${b.narration || b.description || ''}</textarea>
+      </div>
     `;
     container.appendChild(card);
   });
@@ -782,29 +799,31 @@ function renderShots(shots) {
         <span>⏱️ ${s.suggestedDurationSec}s</span>
       </div>
       
-      <!-- Virtual Production Crew Guardrails -->
-      <div class="crew-guardrails">
-        <div class="crew-guardrails-title">
+      <!-- Virtual Production Crew Guardrails (Collapsible) -->
+      <details class="crew-guardrails" style="cursor: pointer;">
+        <summary class="crew-guardrails-title" style="list-style: none; display: flex; justify-content: space-between; align-items: center; user-select: none;">
           <span>🛡️ Production Crew Guardrails</span>
-          <span class="badge badge-success">PHYSICS & PORES VERIFIED</span>
+          <span class="badge badge-success">ACTIVE ▼</span>
+        </summary>
+        <div style="margin-top: 8px;">
+          <div class="crew-item">
+            <span class="crew-item-label">VFX & PHYSICS:</span>
+            <span class="crew-item-val highlight">${vfx.phasingShield || 'Solid objects rigid, zero noclip or furniture phasing'}</span>
+          </div>
+          <div class="crew-item">
+            <span class="crew-item-label">LIGHT & SKIN:</span>
+            <span class="crew-item-val">${gaffer.skinRendering} &bull; ${gaffer.colorTemperature || '3200K'}</span>
+          </div>
+          <div class="crew-item">
+            <span class="crew-item-label">CINEMATOGRAPHER:</span>
+            <span class="crew-item-val">${dp.lens} on ${dp.rig || 'Mechanical Rig'}</span>
+          </div>
+          <div class="crew-item">
+            <span class="crew-item-label">CONTINUITY:</span>
+            <span class="crew-item-val">${cont.eyelineRule} &bull; ${cont.spatialTopology || 'Geometry Locked'}</span>
+          </div>
         </div>
-        <div class="crew-item">
-          <span class="crew-item-label">VFX & PHYSICS:</span>
-          <span class="crew-item-val highlight">${vfx.phasingShield || 'Solid objects rigid, zero noclip or furniture phasing'}</span>
-        </div>
-        <div class="crew-item">
-          <span class="crew-item-label">LIGHT & SKIN:</span>
-          <span class="crew-item-val">${gaffer.skinRendering} &bull; ${gaffer.colorTemperature || '3200K'}</span>
-        </div>
-        <div class="crew-item">
-          <span class="crew-item-label">CINEMATOGRAPHER:</span>
-          <span class="crew-item-val">${dp.lens} on ${dp.rig || 'Mechanical Rig'}</span>
-        </div>
-        <div class="crew-item">
-          <span class="crew-item-label">CONTINUITY:</span>
-          <span class="crew-item-val">${cont.eyelineRule} &bull; ${cont.spatialTopology || 'Geometry Locked'}</span>
-        </div>
-      </div>
+      </details>
 
       <div class="flow-prompt-box">
         <div class="flow-prompt-label">
