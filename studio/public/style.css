@@ -93,7 +93,7 @@ html, body {
 }
 
 .brand-badge {
-  display: inline-flex;
+  display: none; /* Hidden on mobile for maximum clean breathing room */
   align-items: center;
   gap: 5px;
   padding: 2px 6px;
@@ -121,14 +121,21 @@ html, body {
 .header-actions {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 6px;
+  flex-shrink: 0;
+}
+
+.header-btn-text {
+  display: none; /* Hidden on mobile, visible on desktop */
 }
 
 .header-icon-btn {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   gap: 6px;
-  padding: 6px 10px;
+  padding: 6px;
+  min-width: 32px;
   background: transparent;
   border: 1px solid var(--border);
   border-radius: var(--radius-sm);
@@ -980,6 +987,19 @@ select option {
    11. DESKTOP ADAPTATION (>= 900px)
    ============================================================ */
 @media (min-width: 900px) {
+  .header-btn-text {
+    display: inline;
+  }
+
+  .brand-badge {
+    display: inline-flex;
+  }
+
+  .header-icon-btn {
+    padding: 6px 10px;
+    width: auto;
+  }
+
   .studio-header {
     padding: 12px 32px;
     height: 56px;

@@ -81,13 +81,15 @@ async function checkApiKeyStatus() {
     const btnText = document.getElementById('apiKeyBtnText');
     const btn = document.getElementById('apiKeySettingsBtn');
     if (data.isConfigured) {
-      btnText.innerText = `Connected (${data.maskedKey})`;
-      btn.style.borderColor = 'var(--accent-emerald)';
+      btnText.innerText = 'Engines';
+      btn.title = `Connected (${data.maskedKey})`;
+      btn.style.borderColor = 'rgba(16, 185, 129, 0.4)';
       btn.style.color = 'var(--accent-emerald)';
     } else {
-      btnText.innerText = 'Connect Cloud AI';
-      btn.style.borderColor = 'var(--accent-cyan)';
-      btn.style.color = 'var(--accent-cyan)';
+      btnText.innerText = 'Engines';
+      btn.title = 'Configure Cloud AI Providers';
+      btn.style.borderColor = 'var(--border)';
+      btn.style.color = 'var(--text-muted)';
     }
 
     // Update modal provider badges if elements exist
