@@ -851,10 +851,14 @@ body {
     width: 100%;
   }
 
-  /* Cards & Dropzones */
-  .panel-card {
+  /* Panels, Cards & Dropzones */
+  .panel, .panel-card {
     padding: 16px;
     border-radius: var(--radius-sm);
+  }
+
+  .dropzone {
+    padding: 24px 16px;
   }
 
   .form-group {
@@ -866,7 +870,7 @@ body {
     margin-bottom: 4px;
   }
 
-  .form-control {
+  .form-control, input[type="text"], textarea, select {
     font-size: 13px;
     padding: 10px 12px;
     min-height: 42px;
@@ -878,15 +882,16 @@ body {
     gap: 10px;
   }
 
-  .beat-header {
+  .beat-card-header {
     flex-direction: column;
-    align-items: flex-start;
+    align-items: stretch;
     gap: 8px;
   }
 
-  .beat-header .beat-title-input {
-    width: 100%;
+  .beat-edit-title {
+    width: 100% !important;
     font-size: 14px;
+    min-height: 40px;
   }
 
   .beat-meta-actions {
@@ -901,7 +906,43 @@ body {
     padding: 8px 10px;
   }
 
+  /* Shot Cards & Meta */
+  .shot-card {
+    padding: 14px;
+  }
+
+  .shot-card-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+
+  .shot-code {
+    font-size: 13px;
+    line-height: 1.35;
+    white-space: normal;
+  }
+
+  .shot-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    font-size: 12px;
+    line-height: 1.4;
+  }
+
   /* Crew Guardrails - Stack vertically to prevent narrow squeezed text */
+  .crew-guardrails {
+    padding: 10px;
+  }
+
+  .crew-guardrails-title {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    font-size: 11px;
+  }
+
   .crew-item {
     flex-direction: column;
     align-items: flex-start;
@@ -912,20 +953,13 @@ body {
   .crew-item-label {
     min-width: unset;
     font-size: 10px;
+    color: var(--accent-orange);
+    letter-spacing: 0.05em;
   }
 
   .crew-item-val {
     font-size: 12px;
-  }
-
-  /* Shot Cards & Google Flow Prompt Box */
-  .shot-card {
-    padding: 14px;
-  }
-
-  .shot-card-header {
-    flex-wrap: wrap;
-    gap: 6px;
+    line-height: 1.35;
   }
 
   .flow-prompt-box {
