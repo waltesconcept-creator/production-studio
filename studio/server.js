@@ -421,6 +421,7 @@ app.post('/api/upload', upload.single('file'), (req, res) => {
 app.post('/api/story/analyze', async (req, res) => {
   const { title, synopsis, genre, aspectRatio, apiKey } = req.body;
   const activeKey = apiKey || process.env.GEMINI_API_KEY || process.env.GOOGLE_API_KEY;
+  let lastGeminiError = null;
 
   // 1. If real Gemini API key is available, call Google Gemini 2.5 Flash live!
   if (activeKey) {
@@ -439,6 +440,7 @@ app.post('/api/story/analyze', async (req, res) => {
       });
     } catch (err) {
       console.warn('[Gemini API] Live analysis note, proceeding with built-in director fallback:', err.message);
+      lastGeminiError = err.message;
     }
   }
 
@@ -553,6 +555,8 @@ app.post('/api/story/analyze', async (req, res) => {
 
   res.json({
     success: true,
+    source: 'Built-in Director Engine (Fallback)',
+    geminiError: lastGeminiError,
     story: {
       title: title || (isBrandFilm ? 'THE IMPERVIOUS // CRAFT VS CATACLYSM' : 'Untitled Production'),
       synopsis,

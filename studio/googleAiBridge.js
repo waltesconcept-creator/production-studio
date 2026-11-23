@@ -25,7 +25,7 @@ class GoogleAIBridge {
       throw new Error('MISSING_API_KEY: Please provide a Google Gemini API Key to enable live Gemini analysis.');
     }
 
-    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:generateContent?key=${key}`;
+    const candidateModels = ['gemini-3-flash-preview', 'gemini-flash-lite-latest'];
     const systemPrompt = `You are an elite Hollywood Director, Screenwriter, and Commercial Cinematographer.
 Analyze the user's raw, scattered, or conversational idea and transform it into a cinematic screenplay.
 Determine the exact optimal number of scenes (between 3 to 10 scenes) based on the story arc.
@@ -47,32 +47,46 @@ Format your response as a strict JSON object with this exact structure:
 
     const userPrompt = `Title/Topic: ${title || 'Untitled'}\nGenre: ${genre || 'Cinematic Narrative Commercial'}\nRaw Idea / Brain-Dump:\n${synopsis}`;
 
-    const res = await fetch(endpoint, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [
-          { role: 'user', parts: [{ text: `${systemPrompt}\n\n${userPrompt}` }] }
-        ],
-        generationConfig: {
-          responseMimeType: 'application/json',
-          temperature: 0.7
+    let lastError = null;
+    for (const modelName of candidateModels) {
+      try {
+        const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent?key=${key}`;
+        const res = await fetch(endpoint, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            contents: [
+              { role: 'user', parts: [{ text: `${systemPrompt}\n\n${userPrompt}` }] }
+            ],
+            generationConfig: {
+              responseMimeType: 'application/json',
+              temperature: 0.7
+            }
+          })
+        });
+
+        if (!res.ok) {
+          const errText = await res.text();
+          throw new Error(`Google Gemini API Error (${res.status}): ${errText}`);
         }
-      })
-    });
 
-    if (!res.ok) {
-      const errText = await res.text();
-      throw new Error(`Google Gemini API Error (${res.status}): ${errText}`);
+        const data = await res.json();
+        const candidateText = data.candidates?.[0]?.content?.parts?.[0]?.text;
+        if (!candidateText) {
+          throw new Error('Gemini returned an empty response');
+        }
+
+        const cleaned = candidateText.replace(/^```json\s*/i, '').replace(/```\s*$/i, '').trim();
+        const parsed = JSON.parse(cleaned);
+        parsed._model = modelName;
+        return parsed;
+      } catch (err) {
+        lastError = err;
+        console.warn(`[Gemini Engine] Model ${modelName} note: ${err.message}. Trying next available model...`);
+      }
     }
 
-    const data = await res.json();
-    const candidateText = data.candidates?.[0]?.content?.parts?.[0]?.text;
-    if (!candidateText) {
-      throw new Error('Gemini returned an empty response');
-    }
-
-    return JSON.parse(candidateText);
+    throw lastError || new Error('All Gemini models failed');
   }
 
   /**
